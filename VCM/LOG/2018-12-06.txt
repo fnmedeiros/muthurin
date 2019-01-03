@@ -1,0 +1,36 @@
+04:30:56 [SocketManager] WSARecv() failed with error: 10053
+08:29:17 [SocketManager] WSARecv() failed with error: 10053
+09:52:07 [SocketManager] WSARecv() failed with error: 10053
+09:55:54 [SocketManager] WSARecv() failed with error: 10053
+10:09:19 [SocketManager] WSARecv() failed with error: 10053
+10:12:00 [SocketManager] WSARecv() failed with error: 10053
+11:06:09 [SocketManager] WSARecv() failed with error: 10053
+11:17:27 [SocketManager] WSARecv() failed with error: 10053
+11:17:45 [SocketManager] WSARecv() failed with error: 10053
+11:27:54 [SocketManager] WSARecv() failed with error: 10053
+11:27:55 [SocketManager] WSARecv() failed with error: 10053
+12:40:40 [SocketManager] WSARecv() failed with error: 10053
+13:14:17 [SocketManager] Server started at port [44405]
+13:14:17 [ServerList] ServerList loaded successfully
+13:14:20 [ServerList] JoinServer online
+13:14:25 [ServerList] GameServer online (MuThurin) (0)
+13:14:29 [ServerList] GameServer online (MuThurinCS) (19)
+13:56:58 [SocketManager] WSARecv() failed with error: 10053
+14:28:50 [SocketManager] WSARecv() failed with error: 10053
+14:56:10 [SocketManager] WSARecv() failed with error: 10053
+14:56:14 [SocketManager] WSARecv() failed with error: 10053
+14:56:45 [SocketManager] WSARecv() failed with error: 10053
+14:56:57 [SocketManager] WSARecv() failed with error: 10053
+15:28:37 [SocketManager] WSARecv() failed with error: 10053
+17:22:23 [SocketManager] WSARecv() failed with error: 10053
+21:17:09 [SocketManager] WSARecv() failed with error: 10053
+21:59:48 [SocketManager] WSARecv() failed with error: 10053
+22:23:27 [SocketManager] Server started at port [44405]
+22:23:27 [ServerList] ServerList loaded successfully
+22:23:30 [ServerList] JoinServer online
+22:23:34 [ServerList] GameServer online (MuThurin) (0)
+22:23:38 [ServerList] GameServer online (MuThurinCS) (19)
+22:25:11 [SocketManager] WSARecv() failed with error: 10053
+23:05:27 [SocketManager] WSARecv() failed with error: 10053
+23:48:42 [SocketManager] WSARecv() failed with error: 10053
+23:48:57 [SocketManager] WSARecv() failed with error: 10053

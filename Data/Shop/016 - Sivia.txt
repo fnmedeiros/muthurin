@@ -1,0 +1,25 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+14          0      0       99     0       0      0        0
+14          1      0       99     0       0      0        0
+14          2      0       99     0       0      0        0
+14          3      10      99     0       0      0        0
+14          4      0       99     0       0      0        0
+14          5      0       99     0       0      0        0
+14          6      10      99     0       0      0        0
+14          8      10      99     0       0      0        0
+13  0  0 255 0 0 0 0 //Guardian Angel 
+13  1  0 255 0 0 0 0 //Satan 
+13  2  0 255 0 0 0 0 //Horn of Unilia
+13          106    0       0     0       0      0        0
+
+end

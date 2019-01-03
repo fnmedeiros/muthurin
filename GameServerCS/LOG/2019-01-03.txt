@@ -1,0 +1,6 @@
+09:09:17 [ObjectManager][3500] AddClient (177.74.186.78)
+09:09:18 [ObjectManager][3500] AddAccountInfo (fajusto)
+09:09:18 [ObjectManager][3500] AddCharacterInfo (Justo)
+09:10:35 [ObjectManager][3500] DelCharacterInfo (Justo)
+09:10:35 [ObjectManager][3500] DelAccountInfo (fajusto)
+09:10:35 [ObjectManager][3500] DelClient (177.74.186.78)

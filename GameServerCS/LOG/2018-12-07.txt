@@ -1,0 +1,54 @@
+10:51:25 [ObjectManager][3500] AddClient (179.110.59.6)
+10:51:26 [ObjectManager][3500] AddAccountInfo (renancoxa)
+10:51:26 [ObjectManager][3500] AddCharacterInfo (SuperMario)
+10:53:10 [ObjectManager][3500] DelCharacterInfo (SuperMario)
+10:53:10 [ObjectManager][3500] DelAccountInfo (renancoxa)
+10:53:10 [ObjectManager][3500] DelClient (179.110.59.6)
+11:09:41 [ObjectManager][3500] AddClient (179.110.59.6)
+11:09:41 [ObjectManager][3500] AddAccountInfo (renancoxa)
+11:09:41 [ObjectManager][3500] AddCharacterInfo (SuperMario)
+11:10:53 [ObjectManager][3500] DelCharacterInfo (SuperMario)
+11:10:53 [ObjectManager][3500] DelAccountInfo (renancoxa)
+11:10:53 [ObjectManager][3500] DelClient (179.110.59.6)
+11:48:18 [ObjectManager][3500] AddClient (179.110.59.6)
+11:48:18 [ObjectManager][3500] AddAccountInfo (renancoxa)
+11:48:18 [ObjectManager][3500] AddCharacterInfo (SuperMario)
+11:48:31 [ObjectManager][3500] DelCharacterInfo (SuperMario)
+11:48:32 [ObjectManager][3500] DelAccountInfo (renancoxa)
+11:48:32 [ObjectManager][3500] DelClient (179.110.59.6)
+21:17:41 [ServerInfo] CashShop loaded successfully
+21:17:41 [ServerInfo] ChaosMix loaded successfully
+21:17:41 [ServerInfo] Character loaded successfully
+21:17:41 [ServerInfo] CustomNpcCollector Info loaded successfully
+21:17:41 [ServerInfo] CustomRankUser Info loaded successfully
+21:17:41 [ServerInfo] CustomWingMix Info loaded successfully
+21:17:41 [ServerInfo] CustomRanking Info loaded successfully
+21:17:41 [ServerInfo] Custom loaded successfully
+21:17:41 [ServerInfo] Command loaded successfully
+21:17:41 [ServerInfo] Common loaded successfully
+21:17:41 [ Crywolf ] State (0) -> NONE
+21:17:41 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+21:17:41 [ServerInfo] Event loaded successfully
+21:17:41 [ServerInfo] EventItemBag loaded successfully
+21:17:41 [ServerInfo] Hack loaded successfully
+21:17:41 [ServerInfo] Item loaded successfully
+21:17:41 [ServerInfo] Monster loaded successfully
+21:17:41 [ServerInfo] Move loaded successfully
+21:17:41 [ServerInfo] Quest loaded successfully
+21:17:41 [ServerInfo] Shop loaded successfully
+21:17:41 [ServerInfo] Skill loaded successfully
+21:17:41 [ServerInfo] Util loaded successfully
+21:17:41 [ReadBotInfo] BotSystem loaded successfully
+21:17:42 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+21:17:42 [ Crywolf ][ ApplyDBInfo] OccupationState : 1
+21:17:42 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-11-30)
+21:17:42 [CastleSiege] CCastleSiege::LoadData() - Siege Date (2-0-0)
+21:17:42 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-12-2(0:0:0))
+21:17:42 [CastleSiege] CCastleSiege::Init() - START
+21:17:42 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+21:27:49 [ObjectManager][3500] AddClient (177.79.11.219)
+21:27:49 [ObjectManager][3500] AddAccountInfo (dedaolip)
+21:27:49 [ObjectManager][3500] AddCharacterInfo (Thurin)
+21:29:57 [ObjectManager][3500] DelCharacterInfo (Thurin)
+21:29:58 [ObjectManager][3500] DelAccountInfo (dedaolip)
+21:29:58 [ObjectManager][3500] DelClient (177.79.11.219)

@@ -1,0 +1,198 @@
+31@1@100@Sword of Destruction@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1000|@16@2@1@1000|@0@508@669
+31@2@101@Divine Sword of Archangel@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@19@2@1@1010|@0@508@669
+31@3@102@Kris@170@20@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1020|@0@2@1@1020|@0@508@669
+31@4@103@Knight Blade@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1030|@20@2@1@1030|@0@508@669
+31@5@104@Bone Blade@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@22@2@1@1040|@0@508@669
+31@6@105@Explosion Blade@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@23@2@1@1050|@0@508@669
+31@7@106@Daybreak@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@24@2@1@1060|@0@508@669
+31@8@107@Sword Dancer@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@25@2@1@1070|@0@508@669
+31@9@108@Flameberge@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1080|@26@2@1@1080|@0@508@669
+31@10@109@Sword Breaker@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1090|@27@2@1@1090|@0@508@669
+31@11@110@Rune Bastard Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1100|@28@2@1@1100|@0@508@669
+31@12@111@Sonic Blade@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1110|@29@2@1@1110|@0@508@669
+31@13@112@Asura@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1120|@30@2@1@1120|@0@508@669
+31@14@113@Rune Blade@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@31@2@1@1130|@0@508@669
+31@15@114@Sacred Glove@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@32@2@1@1140|@0@508@669
+31@16@115@Piercing Blade Glove@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1150|@34@2@1@1150|@0@508@669
+31@17@116@Phoenix Soul Star@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1160|@35@2@1@1160|@0@508@669
+31@18@117@Prickle Glove@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@38@2@1@1170|@0@508@669
+31@19@118@Bloodangel Magic Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@44@2@1@1180|@0@508@669
+31@20@119@Bloodangel Claw@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1190|@46@2@1@1190|@0@508@669
+31@21@120@Blessed Divine Sword of Archa@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1200|@51@2@1@1200|@0@508@669
+31@22@121@Dancer Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@110@2@1@1210|@0@508@669
+31@23@122@Nexus Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1220|@111@2@1@1220|@0@508@669
+31@24@123@Galaxy Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1230|@115@2@1@1230|@0@508@669
+31@25@124@Innovation Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1240|@150@2@1@1240|@0@508@669
+31@26@125@Blitz Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1250|@149@2@1@1250|@0@508@669
+31@27@126@Gladius Sword@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1260|@145@2@1@1260|@0@508@669
+32@1@127@Legendary Staff@170@20@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1270|@2565@2@1@1270|@0@508@669
+32@2@128@Dragon Soul Staff@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1280|@2569@2@1@1280|@0@508@669
+32@3@129@Divine Staff of Archangel@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1290|@2570@2@1@1290|@0@508@669
+32@4@130@Staff of Kundun@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1300|@2571@2@1@1300|@0@508@669
+32@5@131@Grand Viper Staff@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1310|@2572@2@1@1310|@0@508@669
+32@6@132@Platina Staff@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1320|@2573@2@1@1320|@0@508@669
+32@7@133@Spite Staff@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1330|@2597@2@1@1330|@0@508@669
+32@8@134@Legendary Staff-J@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@2598@2@1@1340|@0@508@669
+32@9@135@Bloodangel Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1350|@2601@2@1@1350|@0@508@669
+32@10@136@Posseidon Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1360|@2604@2@1@1360|@0@508@669
+32@11@137@Blazh Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1370|@2605@2@1@1370|@0@508@669
+32@12@138@Nelexto Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1380|@2606@2@1@1380|@0@508@669
+32@13@139@Artemis Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1390|@2607@2@1@1390|@0@508@669
+32@14@140@Wourd Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1400|@2614@2@1@1400|@0@508@669
+32@15@141@Daw Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1410|@2613@2@1@1410|@0@508@669
+32@16@142@Zertra Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1420|@2612@2@1@1420|@0@508@669
+33@1@194@Set Legendary@170@25@Bundle Includes:  #* Legendary Helm (1 UN)  #* Legendary Armor (1 UN)  #* Legendary Pants (1 UN)  #* Legendary Gloves (1 UN)  #* Legendary Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10000|10001|10002|10003|10004|@7302@2@1@@0@508@669
+33@2@195@Set Dragon@170@25@Bundle Includes:  #* Dragon Helm (1 UN)  #* Dragon Armor (1 UN)  #* Dragon Pants (1 UN)  #* Dragon Gloves (1 UN)  #* Dragon Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10065|10066|10067|10068|10069|@7302@2@1@@0@508@669
+33@3@231@Set Guardian@170@25@Bundle Includes: #* Guardian Helm (1 UN) #* Guardian Armor (1 UN) #* Guardian Pants (1 UN) #* Guardian Gloves (1 UN) #* Guardian Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10000|10001|10002|10003|10004|@7302@2@1@@0@508@669
+33@4@232@Set Storm Crow@170@25@Bundle Includes: #* Storm Crow Armor (1 UN) #* Storm Crow Pants (1 UN) #* Storm Crow Gloves (1 UN) #* Storm Crow Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10000|10001|10002|10003|@7302@2@1@@0@508@669
+33@5@233@Set Ancient@170@25@Bundle Includes:  #* Ancient Helm (1 UN)  #* Ancient Armor (1 UN)  #* Ancient Pants (1 UN)  #* Ancient Gloves (1 UN)  #* Ancient Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10004|10005|10006|10007|10008|@7302@2@1@@0@508@669
+33@6@234@Set Adamantine@170@25@Bundle Includes: #* Adamantine Mask (1 UN) #* Adamantine Armor (1 UN) #* Adamantine Pants (1 UN) #* Adamantine Gloves (1 UN) #* Adamantine Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10009|10010|10011|10012|10013|@7302@2@1@@0@508@669
+33@7@235@Set Sacred Fire@170@25@Rage Fighter #Bundle Includes: #* Sacred Fire Helm (1 UN) #* Sacred Fire Armor (1 UN) #* Sacred Fire Pants (1 UN) #* Sacred Fire Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10014|10015|10016|10017|@7302@2@1@@0@508@669
+33@8@236@Set Dragon Knight@170@45@Dark Knight  #Bundle Includes:  #* Dragon Knight Helm (1 UN)  #* Dragon Knight Armor (1 UN)  #* Dragon Knight Pants (1 UN)  #* Dragon Knight Gloves (1 UN)  #* Dragon Knight Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10000|10001|10002|10003|10004|@7303@2@1@@0@508@669
+33@9@246@Set Venom Mist@170@45@Bundle Includes: #* Venom Mist Helm (1 UN) #* Venom Mist Armor (1 UN) #* Venom Mist Pants (1 UN) #* Venom Mist Gloves (1 UN) #* Venom Mist Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10005|10006|10007|10008|10009|@7303@2@1@@0@508@669
+33@10@247@Set Sticky@170@45@Bundle Includes: #* Sticky Helm (0 UN) #* Sticky Armor (0 UN) #* Sticky Pants (0 UN) #* Sticky Gloves (0 UN) #* Sticky Boots (0 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10010|10011|10012|10013|10014|@7303@2@1@@0@508@669
+33@11@250@Set Phoenix Soul@170@45@Bundle Includes:  #* Phoenix Soul Helmet (1 UN)  #* Phoenix Soul Armor (1 UN)  #* Phoenix Soul Pants (1 UN)  #* Phoenix Gloves (1 UN)  #* Phoenix Soul Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10024|10025|10026|10027|10028|@7303@2@1@@0@508@669
+33@12@249@Set Sunlight@170@45@Bundle Includes: #* Sunlight Mask (0 UN) #* Sunlight Armor (0 UN) #* Sunlight Pants (0 UN) #* Sunlight Gloves (0 UN) #* Sunlight Boots (0 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10019|10020|10021|10022|10023|@7303@2@1@@0@508@669
+33@13@248@Set Hell Night@170@45@Bundle Includes: #* Hell Night Armor (0 UN) #* Hell Night Pants (0 UN) #* Hell Night Gloves (0 UN) #* Hell Night Boots (0 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10015|10016|10017|10018|@7303@2@1@@0@508@669
+33@14@251@Set Kilin@170@60@Bundle Includes: #* Kilin Helm (1 UN) #* Kilin Armor (1 UN) #* Kilin Pants (1 UN) #* Kilin Gloves (1 UN) #* Kilin Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10029|10030|10031|10032|10070|@7302@2@1@@0@508@669
+33@15@252@Set Weutiro@170@60@Bundle Includes:  #* Weutiro Helm (1 UN)  #* Weutiro Armor (1 UN)  #* Weutiro Pants (1 UN)  #* Weutiro Gloves (1 UN)  #* Weutiro Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10034|10035|10036|10037|10038|@7304@2@1@@0@508@669
+33@16@253@Set Heteria@170@60@Bundle Includes:  #* Heteria Helm (1 UN)  #* Heteria Armor (1 UN)  #* Heteria Pants (1 UN)  #* Heteria Gloves (1 UN)  #* Heteria Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10039|10040|10041|10042|10043|@7304@2@1@@0@508@669
+33@17@254@Set Deoita@170@60@Bundle Includes: #* Deoita Helm (1 UN) #* Deoita Armor (1 UN) #* Deoita Pants (1 UN) #* Deoita Gloves (1 UN) #* Deoita Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10044|10045|10046|10047|10049|@7304@2@1@@0@508@669
+33@18@255@Set Uiague@170@60@Bundle Includes: #* Uiague Helm (1 UN) #* Uiague Armor (1 UN) #* Uiague Pants (1 UN) #* Uiague Gloves (1 UN) #* Uiague Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10050|10051|10052|10053|10054|@7304@2@1@@0@508@669
+33@19@256@Set Team@170@60@Bundle Includes: #* Team Helm (1 UN) #* Team Armor (1 UN) #* Team Pants (1 UN) #* Team Gloves (1 UN) #* Team Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10055|10056|10057|10058|10059|@7304@2@1@@0@508@669
+33@20@257@Set Bornet@170@60@Bundle Includes: #* Bornet Helm (1 UN) #* Bornet Armor (1 UN) #* Bornet Pants (1 UN) #* Bornet Gloves (1 UN) #* Bornet Boots (1 UN)@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@10060|10061|10062|10063|10064|@7304@2@1@@0@508@669
+34@1@143@Mystery Stick@170@20@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1430|@2574@2@1@1430|@0@508@669
+34@2@144@Red Wing Stick@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1440|@2576@2@1@1440|@0@508@669
+34@3@145@Ancient Stick@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@2577@2@1@1450|@0@508@669
+34@4@146@Demonic Stick@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@2578@2@1@1460|@0@508@669
+34@5@147@Storm Blitz Stick@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1470|@2579@2@1@1470|@0@508@669
+34@6@148@Eternal Wing Stick@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1480|@2580@2@1@1480|@0@508@669
+34@7@149@Book of Samut@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1490|@2581@2@1@1490|@0@508@669
+34@8@150@Book of Neil@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1500|@2582@2@1@1500|@0@508@669
+34@9@151@Book of Lagle@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1510|@2583@2@1@1510|@0@508@669
+34@10@152@Summon Spirit Stick@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1520|@2592@2@1@1520|@0@508@669
+34@11@153@Raven Stick@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1530|@2594@2@1@1530|@0@508@669
+34@12@154@Divine Stick of the Archangel@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1540|@2596@2@1@1540|@0@508@669
+34@13@155@Book of Neil-J@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1550|@2600@2@1@1550|@0@508@669
+34@14@156@Bloodangel Staff@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1560|@2601@2@1@1560|@0@508@669
+34@15@157@Bloodangel Stick@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1570|@2603@2@1@1570|@0@508@669
+34@16@158@Blessed Divine Stick of Archa@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1580|@2610@2@1@1580|@0@508@669
+35@1@159@Mace@170@20@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1590|@1024@2@1@1590|@0@508@669
+35@2@160@Great Hammer@170@20@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1600|@1027@2@1@1600|@0@508@669
+35@3@161@Elemental Mace@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1610|@1031@2@1@1610|@0@508@669
+35@4@162@Master Scepter@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1620|@1033@2@1@1620|@0@508@669
+35@5@163@Lord Scepter@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1630|@1035@2@1@1630|@0@508@669
+35@6@164@Great Lord Scepter@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1640|@1036@2@1@1640|@0@508@669
+35@7@165@Divine Scepter of Archangel@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1650|@1037@2@1@1650|@0@508@669
+35@8@166@Soleil Sceptor@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1660|@1038@2@1@1660|@0@508@669
+35@9@167@Shining Scepter@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1670|@1039@2@1@1670|@0@508@669
+35@10@168@Frost Mace@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1680|@1040@2@1@1680|@0@508@669
+35@11@169@Absolute Scepter@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1690|@1041@2@1@1690|@0@508@669
+35@12@170@Striker Scepter@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1700|@1042@2@1@1700|@0@508@669
+35@13@171@Thunderbolt@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1710|@1043@2@1@1710|@0@508@669
+35@14@172@Horn of Steal@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1720|@1044@2@1@1720|@0@508@669
+35@15@173@Master Scepter-J@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1730|@1045@2@1@1730|@0@508@669
+35@16@174@Bloodangel Scepter@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1740|@1046@2@1@1740|@0@508@669
+35@17@175@Blessed Divine Scepter of Arc@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1750|@1049@2@1@1750|@0@508@669
+36@1@196@Wings of Elf@170@20@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1960|@6144@2@1@1960|@0@508@669
+36@2@197@Wings of Heaven@170@20@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1970|@6145@2@1@1970|@0@508@669
+36@3@198@Wings of Satan@170@20@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1980|@6146@2@1@1980|@0@508@669
+36@4@199@Wing of Curse@170@20@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1990|@6185@2@1@1990|@0@508@669
+36@5@200@Wings of Spirits@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2000|@6147@2@1@2000|@0@508@669
+36@6@201@Wings of Soul@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2010|@6148@2@1@2010|@0@508@669
+36@7@202@Wings of Dragon@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2020|@6149@2@1@2020|@0@508@669
+36@8@203@Wings of Darkness@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2030|@6150@2@1@2030|@0@508@669
+36@9@204@Wind of Despair@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2040|@6186@2@1@2040|@0@508@669
+36@10@205@Cape of Emperor@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2050|@6184@2@1@2050|@0@508@669
+36@11@206@Cape of Fighter@170@30@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2060|@6193@2@1@2060|@0@508@669
+36@12@207@Wing of Storm@170@40@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2070|@6180@2@1@2070|@0@508@669
+36@13@208@Wing of Eternal@170@40@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2080|@6181@2@1@2080|@0@508@669
+36@14@209@Wing of Illusion@170@40@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2090|@6182@2@1@2090|@0@508@669
+36@15@210@Wing of Ruin@170@40@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2100|@6183@2@1@2100|@0@508@669
+36@16@211@Wing of Dimension@170@40@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2110|@6187@2@1@2110|@0@508@669
+36@17@212@Cape of Overrule@170@40@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2120|@6194@2@1@2120|@0@508@669
+36@18@213@Wings of Chaos@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2130|@6407@2@1@2130|@0@508@669
+36@19@214@Wings of Magic@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2140|@6408@2@1@2140|@0@508@669
+36@20@215@Wings of Life@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2150|@6409@2@1@2150|@0@508@669
+36@21@216@Wings of Conqueror@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2160|@6410@2@1@2160|@0@508@669
+36@22@217@Wings of Angel and Devil@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2170|@6411@2@1@2170|@0@508@669
+36@23@218@Wings of Pure Angel@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2180|@6412@2@1@2180|@0@508@669
+36@24@219@Wings of Mega Angel@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2190|@6413@2@1@2190|@0@508@669
+36@25@220@Wings of Fairy Elf@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2200|@6414@2@1@2200|@0@508@669
+36@26@221@Wings of Dark Satan@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2210|@6415@2@1@2210|@0@508@669
+36@27@222@Wings of Phoenix@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2220|@6416@2@1@2220|@0@508@669
+36@28@223@Wings of Night@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2230|@6417@2@1@2230|@0@508@669
+36@29@224@Wings of Queem@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2240|@6418@2@1@2240|@0@508@669
+36@30@225@Wings of Dragon Eye@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2250|@6419@2@1@2250|@0@508@669
+36@31@226@Wings of Dark Storm@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2260|@6420@2@1@2260|@0@508@669
+36@32@227@Wings of Eagle@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2270|@6421@2@1@2270|@0@508@669
+36@33@228@Wings of Pegasus@170@50@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2280|@6422@2@1@2280|@0@508@669
+37@1@176@Elven Bow@170@20@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1760|@2050@2@1@1760|@0@508@669
+37@2@177@Silver Bow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1770|@2053@2@1@1770|@0@508@669
+37@3@178@Chaos Nature Bow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1780|@2054@2@1@1780|@0@508@669
+37@4@179@Light Crossbow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1790|@2059@2@1@1790|@0@508@669
+37@5@180@Bluewing Crossbow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1800|@2061@2@1@1800|@0@508@669
+37@6@181@Saint Crossbow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1810|@2064@2@1@1810|@0@508@669
+37@7@182@Celestial Bow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1820|@2065@2@1@1820|@0@508@669
+37@8@183@Divine Crossbow of Archangel@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1830|@2066@2@1@1830|@0@508@669
+37@9@184@Great Reign Crossbow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1840|@2067@2@1@1840|@0@508@669
+37@10@185@Arrow Viper Bow@170@40@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1850|@2068@2@1@1850|@0@508@669
+37@11@186@Sylph Wind Bow@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1860|@2069@2@1@1860|@0@508@669
+37@12@187@Dark Stinger@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1870|@2071@2@1@1870|@0@508@669
+37@13@188@Aileen Bowr@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1880|@2072@2@1@1880|@0@508@669
+37@14@189@Angelic Bow@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1890|@2073@2@1@1890|@0@508@669
+37@15@190@Devil Crossbow@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1900|@2074@2@1@1900|@0@508@669
+37@16@191@Silver Bow-J@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1910|@2075@2@1@1910|@0@508@669
+37@17@192@Bloodangel Bow@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1920|@2076@2@1@1920|@0@508@669
+37@18@193@Blessed Divine Crossbow of Ar@170@50@Description@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1930|@2078@2@1@1930|@0@508@669
+38@1@237@Dark Horse@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2370|@6660@5@1@2370|@1@0@669
+38@2@238@Dark Raven@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2380|@6661@5@1@2380|@1@0@669
+38@3@239@Contract (Summon)@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2390|@6663@5@1@2390|@1@0@669
+38@4@240@Horn of Dinorant@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2400|@6659@5@1@2400|@1@0@669
+38@5@241@Horn of Uniria@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2410|@6658@5@1@2410|@1@0@669
+38@6@242@Horn of Fenrir@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2420|@6693@5@1@2420|@1@0@669
+38@7@243@Demon@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2430|@6720@5@1@2430|@1@0@669
+38@8@244@Spirit of Guardian@170@1@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@2440|@6721@5@1@2440|@1@0@669
+38@9@283@Ring of Ice@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2830|@6664@2@1@2830|@0@508@669
+38@10@284@Ring of Poison@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2840|@6665@2@1@2840|@0@508@669
+38@11@285@Pendant of Lighting@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2850|@6668@2@1@2850|@0@508@669
+38@12@286@Pendant of Fire@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2860|@6669@2@1@2860|@0@508@669
+38@13@287@Wizards Ring@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2870|@6676@2@1@2870|@0@508@669
+38@14@288@Ring of Fire@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2880|@6677@2@1@2880|@0@508@669
+38@15@289@Ring of Earth@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2890|@6678@2@1@2890|@0@508@669
+38@16@290@Ring of Wind@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2900|@6679@2@1@2900|@0@508@669
+38@17@291@Ring of Magic@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2910|@6680@2@1@2910|@0@508@669
+38@18@292@Pendant of Ice@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2920|@6681@2@1@2920|@0@508@669
+38@19@293@Pendant of Wind@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2930|@6682@2@1@2930|@0@508@669
+38@20@294@Pendant of Water@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2940|@6683@2@1@2940|@0@508@669
+38@21@295@Pendant of Ability@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2950|@6684@2@1@2950|@0@508@669
+38@22@296@Lorencia Knights' Iron Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2960|@6346@2@1@2960|@0@508@669
+38@23@297@Iron Shield of the Magic@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2970|@6347@2@1@2970|@0@508@669
+39@1@245@Dragon Shield@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2450|@3085@2@1@2450|@0@508@669
+39@2@258@Legendary Shield@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2580|@3086@2@1@2580|@0@508@669
+39@3@259@Elemental Shield@170@40@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2590|@3088@2@1@2590|@0@508@669
+39@4@260@Grand Soul Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2600|@3087@2@1@2600|@0@508@669
+39@5@261@Crimson Glory@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2610|@3089@2@1@2610|@0@508@669
+39@6@262@Salamander Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2620|@3090@2@1@2620|@0@508@669
+39@7@263@Frost Barrier@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2630|@3091@2@1@2630|@0@508@669
+39@8@264@Guardian Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2640|@3092@2@1@2640|@0@508@669
+39@9@265@Cross Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2650|@3093@2@1@2650|@0@508@669
+39@10@266@Lazy Wind Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2660|@3094@2@1@2660|@0@508@669
+39@11@267@Light Lord Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2670|@3095@2@1@2670|@0@508@669
+39@12@268@Dark Devil Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2680|@3096@2@1@2680|@0@508@669
+39@13@269@Magic Knight Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2690|@3097@2@1@2690|@0@508@669
+39@14@270@Ambition Shield@170@45@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2700|@3098@2@1@2700|@0@508@669
+39@15@271@Legendary Shield-J@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2710|@3099@2@1@2710|@0@508@669
+39@16@272@Serpent Shield-J@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2720|@3100@2@1@2720|@0@508@669
+39@17@273@Prometheus Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2730|@3101@2@1@2730|@0@508@669
+39@18@274@Esparta Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2740|@3102@2@1@2740|@0@508@669
+39@19@275@Posseidon Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2750|@3103@2@1@2750|@0@508@669
+39@20@276@Imperio Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2760|@3105@2@1@2760|@0@508@669
+39@21@277@Flag Shield @170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2770|@3172@2@1@2770|@0@508@669
+39@22@278@Lord Steel Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2780|@3173@2@1@2780|@0@508@669
+39@23@279@Ice Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2790|@3174@2@1@2790|@0@508@669
+39@24@280@Green Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2800|@3175@2@1@2800|@0@508@669
+39@25@281@Nocturne Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2810|@3178@2@1@2810|@0@508@669
+39@26@282@Imperial God Shield@170@50@ @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2820|@3179@2@1@2820|@0@508@669
+41@1@229@Innovation Sword(30 dias)@170@10@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2290|@150@2@1@2290|@0@508@669
+41@2@230@Blitz Sword (30 dias)@170@10@@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2300|@149@2@1@2300|@0@508@669

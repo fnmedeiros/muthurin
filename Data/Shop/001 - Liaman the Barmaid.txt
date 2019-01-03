@@ -1,0 +1,43 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+//lorencia bar mulher vermelha
+13 18  1 255 0 0 0 0 //Convite BC
+13 18  2 255 0 0 0 0 //Convite BC
+13 18  3 255 0 0 0 0 //Convite BC
+13 18  4 255 0 0 0 0 //Convite BC
+13 18  5 255 0 0 0 0 //Convite BC
+13 18  6 255 0 0 0 0 //Convite BC
+13 18  7 255 0 0 0 0 //Convite BC
+13 18  8 255 0 0 0 0 //Convite BC
+14 19  1 255 0 0 0 0 //convite DS
+14 19  2 255 0 0 0 0 //convite DS
+14 19  3 255 0 0 0 0 //convite DS
+14 19  4 255 0 0 0 0 //convite DS
+14 19  5 255 0 0 0 0 //convite DS
+14 19  6 255 0 0 0 0 //convite DS
+14 19  7 255 0 0 0 0 //convite DS
+14 10  0 255 0 0 0 0 //TOWN
+
+13  0  0 255 0 0 0 0 //Guardian Angel 
+13  1  0 255 0 0 0 0 //Satan 
+13  2  0 255 0 0 0 0 //Horn of Unilia
+13  106    0       0     0       0      0        0
+
+14  3 10 99 0 0 0 0 //Potion +10
+14  6 10 99 0 0 0 0 //mana +10
+14          8      10      99     0       0      0        0
+13          29     0       1      0       0      0        0
+14          111    0       0     0       0      0        0
+14          109    0       0     0       0      0        0
+14          102    0       0     0       0      0        0
+13          38    0       0     0       0      0        0
+end

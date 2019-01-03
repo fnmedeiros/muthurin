@@ -1,0 +1,6 @@
+20:57:54 [ObjectManager][3500] AddClient (168.227.226.78)
+20:57:54 [ObjectManager][3500] AddAccountInfo (bordignon)
+20:57:54 [ObjectManager][3500] AddCharacterInfo (Bordignon3)
+20:58:11 [ObjectManager][3500] DelCharacterInfo (Bordignon3)
+20:58:11 [ObjectManager][3500] DelAccountInfo (bordignon)
+20:58:11 [ObjectManager][3500] DelClient (168.227.226.78)

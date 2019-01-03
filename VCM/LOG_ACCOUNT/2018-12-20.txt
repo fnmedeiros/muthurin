@@ -1,0 +1,1 @@
+21:56:11 [AccountInfo] Account connected (Account: pasqua, IpAddress: 177.188.82.225, GameServerCode: 0)

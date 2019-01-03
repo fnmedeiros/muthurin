@@ -1,0 +1,82 @@
+00:07:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:02:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+03:57:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+05:52:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+07:47:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:36:01 [OnlineLoterry] Não teve vencedor
+09:42:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:36:01 [OnlineLoterry] Não teve vencedor
+11:37:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+12:36:01 [OnlineLoterry] Não teve vencedor
+12:51:19 [ObjectManager][9000] AddClient (189.47.250.62)
+12:51:25 [ObjectManager][9000] AddAccountInfo (pasqua)
+12:51:33 [ObjectManager][9000] AddCharacterInfo (Naathy)
+13:32:16 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+13:36:01 [OnlineLoterry] Não teve vencedor
+13:44:20 [ObjectManager][9000] DelCharacterInfo (Naathy)
+13:44:20 [ObjectManager][9000] DelAccountInfo (pasqua)
+13:44:20 [ObjectManager][9000] DelClient (189.47.250.62)
+13:44:34 [ObjectManager][9000] AddClient (189.47.250.62)
+13:44:44 [ObjectManager][9000] AddAccountInfo (pasqua)
+13:44:45 [ObjectManager][9000] AddCharacterInfo (Naathy)
+14:21:51 [pasqua][Naathy] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+14:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+14:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+14:36:40 [ObjectManager][9000] DelCharacterInfo (Naathy)
+14:36:40 [ObjectManager][9000] DelAccountInfo (pasqua)
+14:36:40 [ObjectManager][9000] DelClient (189.47.250.62)
+14:50:53 [ObjectManager][9000] AddClient (189.47.250.62)
+14:51:00 [ObjectManager][9000] AddAccountInfo (pasqua)
+14:51:14 [ObjectManager][9000] AddCharacterInfo (Naathy)
+14:58:37 [ObjectManager][9000] DelCharacterInfo (Naathy)
+14:58:37 [ObjectManager][9000] DelAccountInfo (pasqua)
+14:58:37 [ObjectManager][9000] DelClient (189.47.250.62)
+15:02:03 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+15:02:03 [ObjectManager][9001] DelAccountInfo (bordignon)
+15:02:03 [ObjectManager][9001] DelClient (168.227.226.253)
+15:02:34 [ObjectManager][9000] AddClient (168.227.226.253)
+15:02:44 [ObjectManager][9000] AddAccountInfo (bordignon)
+15:02:44 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+15:09:53 [ObjectManager][9001] AddClient (189.47.250.62)
+15:10:00 [ObjectManager][9001] AddAccountInfo (pasqua)
+15:10:13 [ObjectManager][9001] AddCharacterInfo (Naathy)
+15:36:01 [OnlineLoterry] Não teve vencedor
+15:44:41 [ObjectManager][9002] AddClient (189.47.250.62)
+15:44:48 [ObjectManager][9001] DelCharacterInfo (Naathy)
+15:44:48 [ObjectManager][9001] DelAccountInfo (pasqua)
+15:44:48 [ObjectManager][9001] DelClient (189.47.250.62)
+15:44:48 Game response error causes conclusion [9001][][][189.47.250.62]
+15:44:51 [ObjectManager][9002] AddAccountInfo (pasqua)
+15:44:52 [ObjectManager][9002] AddCharacterInfo (Naathy)
+16:23:40 [ObjectManager][9002] DelCharacterInfo (Naathy)
+16:23:40 [ObjectManager][9002] DelAccountInfo (pasqua)
+16:23:40 [ObjectManager][9002] DelClient (189.47.250.62)
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:01:54 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+19:22:07 [ObjectManager][9001] AddClient (189.47.68.221)
+19:22:14 [ObjectManager][9001] AddAccountInfo (renancoxa)
+19:22:20 [ObjectManager][9001] AddCharacterInfo (SuperMario)
+19:36:01 [OnlineLoterry] Não teve vencedor
+19:51:47 [renancoxa][SuperMario] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:56:54 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+21:36:01 [OnlineLoterry] Não teve vencedor
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+23:36:01 [OnlineLoterry] Não teve vencedor
+23:38:16 [ObjectManager][9001] DelCharacterInfo (SuperMario)
+23:38:16 [ObjectManager][9001] DelAccountInfo (renancoxa)
+23:38:16 [ObjectManager][9001] DelClient (189.47.68.221)

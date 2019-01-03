@@ -1,0 +1,6 @@
+08:50:51 [AccountInfo] Account connected (Account: fajusto, IpAddress: 177.74.186.78, GameServerCode: 0)
+08:56:18 [AccountInfo] Account disconnected (Account: fajusto, IpAddress: 177.74.186.78, GameServerCode: 0)
+08:57:32 [AccountInfo] Account connected (Account: fajusto, IpAddress: 177.74.186.78, GameServerCode: 0)
+10:00:01 [AccountInfo] Account disconnected (Account: fajusto, IpAddress: 177.74.186.78, GameServerCode: 0)
+10:01:25 [AccountInfo] Account connected (Account: fajusto, IpAddress: 177.74.186.78, GameServerCode: 0)
+11:21:55 [AccountInfo] Account disconnected (Account: fajusto, IpAddress: 177.74.186.78, GameServerCode: 0)

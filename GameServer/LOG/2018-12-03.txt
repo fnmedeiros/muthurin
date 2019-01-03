@@ -1,0 +1,128 @@
+13:18:17 [ServerInfo] CashShop loaded successfully
+13:18:17 [ServerInfo] ChaosMix loaded successfully
+13:18:17 [ServerInfo] Character loaded successfully
+13:18:17 [ServerInfo] CustomNpcCollector Info loaded successfully
+13:18:17 [ServerInfo] CustomRankUser Info loaded successfully
+13:18:17 [ServerInfo] CustomWingMix Info loaded successfully
+13:18:17 [ServerInfo] CustomRanking Info loaded successfully
+13:18:17 [ServerInfo] Custom loaded successfully
+13:18:17 [ServerInfo] Command loaded successfully
+13:18:17 [ServerInfo] Common loaded successfully
+13:18:17 [ServerInfo] Event loaded successfully
+13:18:17 [ServerInfo] EventItemBag loaded successfully
+13:18:17 [ServerInfo] Hack loaded successfully
+13:18:17 [ServerInfo] Item loaded successfully
+13:18:17 [ServerInfo] Monster loaded successfully
+13:18:17 [ServerInfo] Move loaded successfully
+13:18:17 [ServerInfo] Quest loaded successfully
+13:18:17 [ServerInfo] Shop loaded successfully
+13:18:17 [ServerInfo] Skill loaded successfully
+13:18:17 [ServerInfo] Util loaded successfully
+13:18:17 [ReadBotInfo] BotSystem loaded successfully
+13:36:01 [OnlineLoterry] Não teve vencedor
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+19:13:19 [ServerInfo] CashShop loaded successfully
+19:13:19 [ServerInfo] ChaosMix loaded successfully
+19:13:19 [ServerInfo] Character loaded successfully
+19:13:19 [ServerInfo] CustomNpcCollector Info loaded successfully
+19:13:19 [ServerInfo] CustomRankUser Info loaded successfully
+19:13:19 [ServerInfo] CustomWingMix Info loaded successfully
+19:13:19 [ServerInfo] CustomRanking Info loaded successfully
+19:13:19 [ServerInfo] Custom loaded successfully
+19:13:19 [ServerInfo] Command loaded successfully
+19:13:19 [ServerInfo] Common loaded successfully
+19:13:19 [ServerInfo] Event loaded successfully
+19:13:20 [ServerInfo] EventItemBag loaded successfully
+19:13:20 [ServerInfo] Hack loaded successfully
+19:13:20 [ServerInfo] Item loaded successfully
+19:13:21 [ServerInfo] Monster loaded successfully
+19:13:21 [ServerInfo] Move loaded successfully
+19:13:21 [ServerInfo] Quest loaded successfully
+19:13:21 [ServerInfo] Shop loaded successfully
+19:13:21 [ServerInfo] Skill loaded successfully
+19:13:21 [ServerInfo] Util loaded successfully
+19:13:21 [ReadBotInfo] BotSystem loaded successfully
+19:36:01 [OnlineLoterry] Não teve vencedor
+19:57:35 [ObjectManager][9000] AddClient (177.200.72.252)
+19:57:53 [ObjectManager][9000] DelClient (177.200.72.252)
+20:01:33 [ObjectManager][9000] AddClient (177.200.72.252)
+20:01:38 [ObjectManager][9000] AddAccountInfo (dedaolip)
+20:03:09 [ObjectManager][9000] AddCharacterInfo (Thurin)
+20:03:21 [ObjectManager][9001] AddClient (168.227.226.236)
+20:03:26 [ObjectManager][9001] AddAccountInfo (bordignon)
+20:03:40 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+20:03:46 [ObjectManager][9000] DelCharacterInfo (Thurin)
+20:03:46 [ObjectManager][9000] DelAccountInfo (dedaolip)
+20:03:46 [ObjectManager][9000] DelClient (177.200.72.252)
+20:06:25 [ObjectManager][9000] AddClient (177.200.72.252)
+20:06:55 [ObjectManager][9000] DelClient (177.200.72.252)
+20:06:55 Response error after connection causes conclusion [9000][][][177.200.72.252]
+20:14:20 [ObjectManager][9001] DelCharacterInfo (Bordignon)
+20:14:20 [ObjectManager][9001] DelAccountInfo (bordignon)
+20:14:20 [ObjectManager][9001] DelClient (168.227.226.236)
+20:14:51 [ObjectManager][9000] AddClient (177.200.72.252)
+20:14:59 [ObjectManager][9000] AddAccountInfo (dedaolip)
+20:30:03 [ObjectManager][9000] DelAccountInfo (dedaolip)
+20:30:03 [ObjectManager][9000] DelClient (177.200.72.252)
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:37:12 [ObjectManager][9001] AddClient (177.200.72.252)
+20:37:15 [ObjectManager][9001] AddAccountInfo (dedaolip)
+20:37:19 [ObjectManager][9001] AddCharacterInfo (Thurin)
+20:38:23 [ObjectManager][9001] DelCharacterInfo (Thurin)
+20:38:23 [ObjectManager][9001] DelAccountInfo (dedaolip)
+20:38:23 [ObjectManager][9001] DelClient (177.200.72.252)
+20:49:30 [ObjectManager][9000] AddClient (177.200.72.252)
+20:49:34 [ObjectManager][9000] AddAccountInfo (dedaolip)
+20:49:40 [ObjectManager][9000] AddCharacterInfo (Thurin)
+20:55:51 [ObjectManager][9000] DelCharacterInfo (Thurin)
+20:55:51 [ObjectManager][9000] DelAccountInfo (dedaolip)
+20:55:51 [ObjectManager][9000] DelClient (177.200.72.252)
+21:32:26 [ObjectManager][9001] AddClient (168.227.226.236)
+21:32:31 [ObjectManager][9001] AddAccountInfo (bordignon)
+21:32:40 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+21:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Bordignon)
+21:36:01 [OnlineLoterry] Vencedor do sorteio (Bordignon)
+21:41:39 [ServerInfo] Shop loaded successfully
+21:44:15 [ObjectManager][9001] DelCharacterInfo (Bordignon)
+21:44:15 [ObjectManager][9001] DelAccountInfo (bordignon)
+21:44:15 [ObjectManager][9001] DelClient (168.227.226.236)
+21:49:53 [ObjectManager][9000] AddClient (177.200.72.252)
+21:49:57 [ObjectManager][9000] AddAccountInfo (dedaolip)
+21:50:02 [ObjectManager][9000] AddCharacterInfo (Thurin)
+21:51:06 [ServerInfo] Shop loaded successfully
+21:52:57 [ObjectManager][9000] DelCharacterInfo (Thurin)
+21:52:57 [ObjectManager][9000] DelAccountInfo (dedaolip)
+21:52:57 [ObjectManager][9000] DelClient (177.200.72.252)
+21:56:42 [ServerInfo] Shop loaded successfully
+21:58:29 [ObjectManager][9001] AddClient (177.200.72.252)
+21:58:53 [ObjectManager][9001] AddAccountInfo (dedaolip)
+21:58:59 [ObjectManager][9001] AddCharacterInfo (Thurin)
+22:02:12 [ObjectManager][9001] DelCharacterInfo (Thurin)
+22:02:12 [ObjectManager][9001] DelAccountInfo (dedaolip)
+22:02:12 [ObjectManager][9001] DelClient (177.200.72.252)
+22:05:00 [KING OF MU] Start
+22:31:28 [ObjectManager][9000] AddClient (177.200.72.252)
+22:31:34 [ObjectManager][9000] AddAccountInfo (dedaolip)
+22:31:39 [ObjectManager][9000] AddCharacterInfo (Thurin)
+22:33:43 [ServerInfo] Shop loaded successfully
+22:34:47 [ServerInfo] Shop loaded successfully
+22:35:00 [KING OF MU] Finish - No Winner
+22:35:29 [ServerInfo] Shop loaded successfully
+22:35:51 [ServerInfo] Shop loaded successfully
+22:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Thurin)
+22:36:01 [OnlineLoterry] Vencedor do sorteio (Thurin)
+22:36:22 [ServerInfo] Shop loaded successfully
+22:36:48 [ServerInfo] Shop loaded successfully
+22:36:56 [ObjectManager][9000] DelCharacterInfo (Thurin)
+22:36:56 [ObjectManager][9000] DelAccountInfo (dedaolip)
+22:36:56 [ObjectManager][9000] DelClient (177.200.72.252)
+22:43:50 [ObjectManager][9001] AddClient (168.227.226.236)
+22:43:55 [ObjectManager][9001] AddAccountInfo (bordignon)
+22:44:06 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+22:58:35 [ObjectManager][9001] DelCharacterInfo (Bordignon)
+22:58:35 [ObjectManager][9001] DelAccountInfo (bordignon)
+22:58:35 [ObjectManager][9001] DelClient (168.227.226.236)
+23:36:01 [OnlineLoterry] Não teve vencedor

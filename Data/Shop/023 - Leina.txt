@@ -1,0 +1,29 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+14          1      0       99     0       0      0        0
+14          2      0       99     0       0      0        0
+14          2      10       99     0       0      0        0
+14          4      0       99     0       0      0        0
+14          4      10      99     0       0      0        0
+14          5      0       99     0       0      0        0
+14          6      0       99     0       0      0        0
+14          8      0       99     0       0      0        0
+4           7      3       99     0       0      0        0
+4           15     3       99     0       0      0        0
+13          7      0       1      0       0      0        0
+13          7      1       1      0       0      0        0
+14          112    0       0      0       0      0        0
+14          113    0       0      0       0      0        0
+
+
+end
+

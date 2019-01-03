@@ -1,0 +1,4 @@
+//Message                                                            Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"Servidor Season8 Ep3"                                                  0      0       0         0       0     0       0      0       60
+"Sabia que você pode divulgar o jogo e ganhar creditos? veja no painel!"            			0      0       0         0       0     0       0      0       900
+end

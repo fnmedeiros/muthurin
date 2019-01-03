@@ -1,0 +1,36 @@
+01:42:53 [ObjectManager][3500] AddClient (189.47.250.62)
+01:42:54 [ObjectManager][3500] AddAccountInfo (pasqua)
+01:42:54 [ObjectManager][3500] AddCharacterInfo (Naathy)
+01:43:12 [ObjectManager][3500] DelCharacterInfo (Naathy)
+01:43:13 [ObjectManager][3500] DelAccountInfo (pasqua)
+01:43:13 [ObjectManager][3500] DelClient (189.47.250.62)
+19:07:21 [ServerInfo] CashShop loaded successfully
+19:07:21 [ServerInfo] ChaosMix loaded successfully
+19:07:21 [ServerInfo] Character loaded successfully
+19:07:21 [ServerInfo] CustomNpcCollector Info loaded successfully
+19:07:21 [ServerInfo] CustomRankUser Info loaded successfully
+19:07:21 [ServerInfo] CustomWingMix Info loaded successfully
+19:07:21 [ServerInfo] CustomRanking Info loaded successfully
+19:07:21 [ServerInfo] Custom loaded successfully
+19:07:21 [ServerInfo] Command loaded successfully
+19:07:21 [ServerInfo] Common loaded successfully
+19:07:21 [ Crywolf ] State (0) -> NONE
+19:07:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+19:07:21 [ServerInfo] Event loaded successfully
+19:07:21 [ServerInfo] EventItemBag loaded successfully
+19:07:21 [ServerInfo] Hack loaded successfully
+19:07:21 [ServerInfo] Item loaded successfully
+19:07:21 [ServerInfo] Monster loaded successfully
+19:07:21 [ServerInfo] Move loaded successfully
+19:07:21 [ServerInfo] Quest loaded successfully
+19:07:21 [ServerInfo] Shop loaded successfully
+19:07:21 [ServerInfo] Skill loaded successfully
+19:07:21 [ServerInfo] Util loaded successfully
+19:07:21 [ReadBotInfo] BotSystem loaded successfully
+19:07:22 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+19:07:22 [ Crywolf ][ ApplyDBInfo] OccupationState : 1
+19:07:22 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2018-11-30)
+19:07:22 [CastleSiege] CCastleSiege::LoadData() - Siege Date (2-0-0)
+19:07:22 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2018-12-2(0:0:0))
+19:07:22 [CastleSiege] CCastleSiege::Init() - START
+19:07:22 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE

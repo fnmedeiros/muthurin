@@ -1,0 +1,93 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+00:46:54 [bordignon][Bordignon3] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:15:43 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+09:15:43 [ObjectManager][9000] DelAccountInfo (bordignon)
+09:15:43 [ObjectManager][9000] DelClient (168.227.226.253)
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+10:57:02 [ObjectManager][9002] AddClient (168.227.226.253)
+10:57:06 [ObjectManager][9002] AddAccountInfo (bordignon)
+10:57:14 [ObjectManager][9002] AddCharacterInfo (Bordignon3)
+11:00:50 [ObjectManager][9002] DelCharacterInfo (Bordignon3)
+11:00:54 [ObjectManager][9002] AddCharacterInfo (Bordignon)
+11:01:02 [ObjectManager][9002] DelCharacterInfo (Bordignon)
+11:01:08 [ObjectManager][9002] AddCharacterInfo (Bordignon1)
+11:02:33 [ObjectManager][9002] DelCharacterInfo (Bordignon1)
+11:02:38 [ObjectManager][9002] AddCharacterInfo (Bordignon3)
+11:36:01 [OnlineLoterry] Não teve vencedor
+12:36:01 [OnlineLoterry] Não teve vencedor
+13:04:18 [ObjectManager][9001] AddClient (189.47.68.221)
+13:04:21 [ObjectManager][9001] AddAccountInfo (renancoxa)
+13:04:28 [ObjectManager][9001] AddCharacterInfo (SuperMario)
+13:15:03 [renancoxa][SuperMario] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+13:36:01 [OnlineLoterry] Não teve vencedor
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:24:20 [ObjectManager][9002] DelCharacterInfo (Bordignon3)
+16:24:20 [ObjectManager][9002] DelAccountInfo (bordignon)
+16:24:20 [ObjectManager][9002] DelClient (168.227.226.253)
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:25:03 [renancoxa][SuperMario] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:24:48 [ObjectManager][9000] AddClient (168.227.226.78)
+19:24:56 [ObjectManager][9000] AddAccountInfo (bordignon)
+19:25:35 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+19:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Bordignon3)
+19:36:01 [OnlineLoterry] Vencedor do sorteio (Bordignon3)
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:38:11 [ObjectManager][9001] DelCharacterInfo (SuperMario)
+20:38:11 [ObjectManager][9001] DelAccountInfo (renancoxa)
+20:38:11 [ObjectManager][9001] DelClient (189.47.68.221)
+21:16:18 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+21:16:18 [ObjectManager][9000] DelAccountInfo (bordignon)
+21:16:18 [ObjectManager][9000] DelClient (168.227.226.78)
+21:16:31 [ObjectManager][9002] AddClient (168.227.226.78)
+21:16:31 [ObjectManager][9002] AddAccountInfo (bordignon)
+21:16:31 [ObjectManager][9002] AddCharacterInfo (Bordignon3)
+21:17:46 [ObjectManager][9002] DelCharacterInfo (Bordignon3)
+21:17:46 [ObjectManager][9002] DelAccountInfo (bordignon)
+21:17:46 [ObjectManager][9002] DelClient (168.227.226.78)
+21:36:01 [OnlineLoterry] Não teve vencedor
+21:40:08 [ObjectManager][9001] AddClient (168.227.226.78)
+21:40:13 [ObjectManager][9001] AddAccountInfo (bordignon)
+21:40:20 [ObjectManager][9001] AddCharacterInfo (Bordignon3)
+22:05:00 [KING OF MU] Start
+22:22:35 [ObjectManager][9000] AddClient (191.17.38.204)
+22:22:43 [ObjectManager][9000] AddAccountInfo (pernaa)
+22:23:22 [ObjectManager][9000] AddCharacterInfo (Anonymous)
+22:25:11 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+22:25:11 [ObjectManager][9001] DelAccountInfo (bordignon)
+22:25:11 [ObjectManager][9001] DelClient (168.227.226.78)
+22:28:32 [ObjectManager][9000] DelCharacterInfo (Anonymous)
+22:29:46 [ObjectManager][9000] AddCharacterInfo (AnonymousS)
+22:30:23 [ObjectManager][9002] AddClient (168.227.226.78)
+22:30:26 [ObjectManager][9002] AddAccountInfo (bordignon)
+22:30:57 [ObjectManager][9002] AddCharacterInfo (Bordignon4)
+22:31:17 [ObjectManager][9000] DelCharacterInfo (AnonymousS)
+22:31:17 [ObjectManager][9000] DelAccountInfo (pernaa)
+22:31:17 [ObjectManager][9000] DelClient (191.17.38.204)
+22:31:25 [ObjectManager][9002] DelCharacterInfo (Bordignon4)
+22:31:30 [ObjectManager][9002] AddCharacterInfo (Bordignon3)
+22:34:03 [ObjectManager][9002] DelCharacterInfo (Bordignon3)
+22:34:07 [ObjectManager][9002] AddCharacterInfo (Bordignon3)
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Bordignon3)
+22:36:01 [OnlineLoterry] Vencedor do sorteio (Bordignon3)
+22:38:41 [ObjectManager][9001] AddClient (191.17.38.204)
+22:38:49 [ObjectManager][9001] AddAccountInfo (pernaa)
+22:38:55 [ObjectManager][9001] AddCharacterInfo (Anonymous)
+22:54:24 [ObjectManager][9001] DelCharacterInfo (Anonymous)
+22:54:38 [ObjectManager][9001] AddCharacterInfo (AnonymousS)
+23:04:34 [ObjectManager][9001] DelCharacterInfo (AnonymousS)
+23:04:34 [ObjectManager][9001] DelAccountInfo (pernaa)
+23:04:34 [ObjectManager][9001] DelClient (191.17.38.204)
+23:36:01 [OnlineLoterry] Não teve vencedor

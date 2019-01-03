@@ -1,0 +1,2 @@
+01:01:38 [SocketManager] WSARecv() failed with error: 10053
+01:02:15 [SocketManager] WSARecv() failed with error: 10053

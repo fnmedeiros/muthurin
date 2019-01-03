@@ -1,0 +1,51 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Sec   Type   Level   Dur   Skill   Luck   Option   Excellent
+14 0 0 255 0 0 0 0 //Apple 
+15 17 0 255 0 0 0 0 //Apple 
+14 1 0 255 0 0 0 0 //Small Healing 
+14 2 0 255 0 0 0 0 //Medium Healing 
+14 3 0 255 0 0 0 0 //Large Healing 
+14 4 0 255 0 0 0 0 //Small Mana 
+14 5 0 255 0 0 0 0 //Medium Mana 
+14 6 0 255 0 0 0 0 //Large Mana 
+14 8 0 255 0 0 0 0 //Antidote 
+7 8 0 255 0 0 0 0 //Brass helm 
+7 3 0 255 0 0 0 0 //Legendary helm 
+
+5 10 7 255 0 0 7 1 
+5 11 7 255 0 0 7 1 
+5 12 7 255 0 0 7 1 
+5 13 7 255 0 0 7 1 
+
+8 8 7 255 0 0 7 1 //Brass armor 
+8 3 7 255 0 0 7 1 //Legendary armor 
+
+9 8 7 255 0 0 7 1 //Brass pants 
+9 3 7 255 0 0 7 1 //Legendary pants 
+
+6 10 7 255 0 0 7 1 //Roundshield 
+6 11 7 255 0 0 7 1 //Serpentshield 
+
+10 8 7 255 0 0 7 1 //Brass gloves 
+10 3 7 255 0 0 7 1 //Legendary gloves 
+6 12 7 255 0 0 7 1 //Bronzeshield 
+6 13 7 255 0 0 7 1 //Dragonshield 
+
+11 8 7 255 0 0 7 1 //Brass boots
+11 3 7 255 0 0 7 1 //Legendary boots
+6 14 7 255 0 0 7 1 //
+6 15 7 255 0 0 7 1 //
+end
+
+
+end
+

@@ -1,0 +1,54 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent
+14 0 0 255 0 0 0 0 //Apple 
+14 1 0 255 0 0 0 0 //Small Healing 
+14 2 0 255 0 0 0 0 //Medium Healing 
+14 3 0 255 0 0 0 0 //Large Healing 
+14 4 0 255 0 0 0 0 //Small Mana 
+14 5 0 255 0 0 0 0 //Medium Mana 
+14 6 0 255 0 0 0 0 //Large Mana 
+12 12 0 255 0 0 0 0 //Hell Blast
+12 14 0 255 0 0 0 0 //Inner Strength
+12 19 0 255 0 0 0 0 //Death Stab
+12 7  0 255 0 0 0 0 //Twisting Slash
+12 47 0 255 0 0 0 0 //Flame Strike
+12 44 0 255 0 0 0 0 //Crystal of destroction
+12 46 0 255 0 0 0 0 //Crystal of destroction
+12 45 0 255 0 0 0 0 //Crystal of destroction
+12 16 0 255 0 0 0 0 //fIRE SLASH
+
+0   2 7 255 1 0 0 0 //Rapier 
+0   3 7 255 1 0 0 0 //Katache 
+0   4 7 255 1 0 0 0 //Scimitar 
+0   5 7 255 1 0 0 0 //Blade 
+0   6 7 255 1 0 0 0 //Gladius 
+0   7 7 255 1 0 0 0 //Falchion 
+0   8 7 255 1 0 0 0
+0   9 7 255 1 0 0 0
+0   10 7 255 1 0 0 0
+
+1   1 7 255 1 0 0 0 //Hatchet 
+1   2 7 255 1 0 0 0 //Doubleaxe 
+1   3 7 255 1 0 0 0 //Tomahawk 
+1   5 7 255 1 0 0 0 //Battleaxe 
+2   4 7 255 1 0 0 0
+
+2  1 7 255 1 0 0 0
+2  0 7 255 1 0 0 0
+2  7 7 255 1 0 0 0
+2  11 7 255 1 0 0 0
+2  12 7 255 1 0 0 0
+2  13 7 255 1 0 0 0
+
+
+end
+

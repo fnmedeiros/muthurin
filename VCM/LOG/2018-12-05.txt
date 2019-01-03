@@ -1,0 +1,20 @@
+07:51:03 [SocketManager] WSARecv() failed with error: 10053
+07:52:00 [SocketManager] WSARecv() failed with error: 10053
+09:30:26 [SocketManager] WSARecv() failed with error: 10053
+10:10:27 [SocketManager] WSARecv() failed with error: 10053
+10:56:29 [SocketManager] WSARecv() failed with error: 10053
+12:48:48 [SocketManager] WSARecv() failed with error: 10053
+12:49:05 [SocketManager] WSARecv() failed with error: 10053
+14:20:53 [SocketManager] WSARecv() failed with error: 10053
+15:51:07 [SocketManager] WSARecv() failed with error: 10053
+15:58:11 [SocketManager] WSARecv() failed with error: 10053
+16:26:25 [SocketManager] WSARecv() failed with error: 10053
+16:57:52 [SocketManager] WSARecv() failed with error: 10053
+16:58:10 [SocketManager] WSARecv() failed with error: 10053
+21:12:34 [SocketManager] WSARecv() failed with error: 10053
+22:08:08 [SocketManager] WSARecv() failed with error: 10053
+22:10:51 [SocketManager] Server started at port [44405]
+22:10:51 [ServerList] ServerList loaded successfully
+22:10:54 [ServerList] JoinServer online
+22:10:59 [ServerList] GameServer online (MuThurin) (0)
+22:11:03 [ServerList] GameServer online (MuThurinCS) (19)

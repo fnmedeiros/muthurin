@@ -1,0 +1,179 @@
+00:08:30 [ObjectManager][9000] AddClient (189.47.250.62)
+00:08:36 [ObjectManager][9000] AddAccountInfo (pasqua)
+00:08:42 [ObjectManager][9000] AddCharacterInfo (Naathy)
+00:25:20 [ObjectManager][9000] DelCharacterInfo (Naathy)
+00:25:20 [ObjectManager][9000] DelAccountInfo (pasqua)
+00:25:20 [ObjectManager][9000] DelClient (189.47.250.62)
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+01:39:52 [ObjectManager][9001] AddClient (189.47.250.62)
+01:39:57 [ObjectManager][9001] AddAccountInfo (pasqua)
+01:40:04 [ObjectManager][9001] AddCharacterInfo (Naathy)
+01:42:52 [ObjectManager][9001] DelCharacterInfo (Naathy)
+01:42:53 [ObjectManager][9001] DelAccountInfo (pasqua)
+01:42:53 [ObjectManager][9001] DelClient (189.47.250.62)
+01:43:13 [ObjectManager][9000] AddClient (189.47.250.62)
+01:43:14 [ObjectManager][9000] AddAccountInfo (pasqua)
+01:43:14 [ObjectManager][9000] AddCharacterInfo (Naathy)
+02:04:16 [ObjectManager][9000] DelCharacterInfo (Naathy)
+02:04:22 [ObjectManager][9000] AddCharacterInfo (MGDoidaO)
+02:05:01 [ObjectManager][9000] DelCharacterInfo (MGDoidaO)
+02:05:08 [ObjectManager][9000] AddCharacterInfo (Naathy)
+02:11:31 [ObjectManager][9000] DelCharacterInfo (Naathy)
+02:11:31 [ObjectManager][9000] DelAccountInfo (pasqua)
+02:11:31 [ObjectManager][9000] DelClient (189.47.250.62)
+02:36:01 [OnlineLoterry] Não teve vencedor
+02:56:07 [ObjectManager][9001] AddClient (189.47.250.62)
+02:56:14 [ObjectManager][9001] AddAccountInfo (pasqua)
+02:56:22 [ObjectManager][9001] AddCharacterInfo (Naathy)
+03:20:39 [ObjectManager][9001] DelCharacterInfo (Naathy)
+03:20:39 [ObjectManager][9001] DelAccountInfo (pasqua)
+03:20:39 [ObjectManager][9001] DelClient (189.47.250.62)
+03:36:01 [OnlineLoterry] Não teve vencedor
+03:57:18 [ObjectManager][9000] AddClient (189.47.250.62)
+03:57:24 [ObjectManager][9000] AddAccountInfo (pasqua)
+03:57:32 [ObjectManager][9000] AddCharacterInfo (Naathy)
+04:07:34 [ObjectManager][9000] DelCharacterInfo (Naathy)
+04:07:44 [ObjectManager][9000] AddCharacterInfo (MGDoidaO)
+04:09:58 [ObjectManager][9000] DelCharacterInfo (MGDoidaO)
+04:10:09 [ObjectManager][9000] AddCharacterInfo (Naathy)
+04:10:45 [ObjectManager][9000] DelCharacterInfo (Naathy)
+04:10:52 [ObjectManager][9000] AddCharacterInfo (Naathy)
+04:11:09 [ObjectManager][9000] DelCharacterInfo (Naathy)
+04:11:09 [ObjectManager][9000] DelAccountInfo (pasqua)
+04:11:09 [ObjectManager][9000] DelClient (189.47.250.62)
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+10:49:58 [ObjectManager][9001] AddClient (177.200.71.241)
+10:50:06 [ObjectManager][9001] AddAccountInfo (wagner43)
+10:50:15 [ObjectManager][9001] AddCharacterInfo (TenSay)
+11:12:13 [ObjectManager][9001] DelCharacterInfo (TenSay)
+11:12:13 [ObjectManager][9001] DelAccountInfo (wagner43)
+11:12:13 [ObjectManager][9001] DelClient (177.200.71.241)
+11:12:37 [ObjectManager][9000] AddClient (189.47.250.62)
+11:12:43 [ObjectManager][9000] AddAccountInfo (pasqua)
+11:12:54 [ObjectManager][9000] AddCharacterInfo (Naathy)
+11:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+11:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+12:22:34 [ObjectManager][9001] AddClient (168.227.226.253)
+12:22:39 [ObjectManager][9001] AddAccountInfo (bordignon)
+12:22:49 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+12:27:35 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:35:49 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+12:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Bordignon)
+12:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+12:36:04 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:36:13 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:36:30 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:36:52 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:37:07 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:37:23 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:37:51 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:38:22 [bordignon][Bordignon] Kill [pasqua][Naathy]
+12:38:44 [ObjectManager][9001] DelCharacterInfo (Bordignon)
+12:38:54 [ObjectManager][9001] AddCharacterInfo (Bordignon1)
+12:39:38 [bordignon][Bordignon1] Kill [pasqua][Naathy]
+12:39:54 [bordignon][Bordignon1] Kill [pasqua][Naathy]
+12:40:10 [bordignon][Bordignon1] Kill [pasqua][Naathy]
+12:40:31 [bordignon][Bordignon1] Kill [pasqua][Naathy]
+12:41:01 [bordignon][Bordignon1] Kill [pasqua][Naathy]
+12:57:46 [ObjectManager][9001] DelCharacterInfo (Bordignon1)
+12:58:07 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+12:58:29 [ObjectManager][9001] DelCharacterInfo (Bordignon)
+12:58:34 [ObjectManager][9001] AddCharacterInfo (Bordignon1)
+12:58:48 [ObjectManager][9001] DelCharacterInfo (Bordignon1)
+12:58:53 [ObjectManager][9001] AddCharacterInfo (Bordignon3)
+12:59:26 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+12:59:31 [ObjectManager][9001] AddCharacterInfo (Bordignon4)
+12:59:45 [ObjectManager][9001] DelCharacterInfo (Bordignon4)
+12:59:50 [ObjectManager][9001] AddCharacterInfo (Bordignon5)
+13:00:00 [ObjectManager][9001] DelCharacterInfo (Bordignon5)
+13:00:21 [ObjectManager][9001] AddCharacterInfo (Bordignon4)
+13:02:56 [ObjectManager][9001] DelCharacterInfo (Bordignon4)
+13:03:34 [ObjectManager][9001] DelAccountInfo (bordignon)
+13:03:34 [ObjectManager][9001] DelClient (168.227.226.253)
+13:36:01 [OnlineLoterry] Não teve vencedor
+13:41:14 [pasqua][Naathy] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+14:05:19 [ObjectManager][9000] DelCharacterInfo (Naathy)
+14:05:29 [ObjectManager][9000] DelAccountInfo (pasqua)
+14:05:29 [ObjectManager][9000] DelClient (189.47.250.62)
+14:18:00 [ObjectManager][9001] AddClient (189.47.250.62)
+14:18:07 [ObjectManager][9001] AddAccountInfo (pasqua)
+14:18:16 [ObjectManager][9001] AddCharacterInfo (Naathy)
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+15:57:03 [pasqua][Naathy] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+16:23:43 [ObjectManager][9001] DelCharacterInfo (Naathy)
+16:23:53 [ObjectManager][9001] DelAccountInfo (pasqua)
+16:23:53 [ObjectManager][9001] DelClient (189.47.250.62)
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:07:16 [ServerInfo] CashShop loaded successfully
+19:07:16 [ServerInfo] ChaosMix loaded successfully
+19:07:16 [ServerInfo] Character loaded successfully
+19:07:16 [ServerInfo] CustomNpcCollector Info loaded successfully
+19:07:16 [ServerInfo] CustomRankUser Info loaded successfully
+19:07:16 [ServerInfo] CustomWingMix Info loaded successfully
+19:07:16 [ServerInfo] CustomRanking Info loaded successfully
+19:07:16 [ServerInfo] Custom loaded successfully
+19:07:16 [ServerInfo] Command loaded successfully
+19:07:16 [ServerInfo] Common loaded successfully
+19:07:16 [ServerInfo] Event loaded successfully
+19:07:16 [ServerInfo] EventItemBag loaded successfully
+19:07:16 [ServerInfo] Hack loaded successfully
+19:07:16 [ServerInfo] Item loaded successfully
+19:07:17 [ServerInfo] Monster loaded successfully
+19:07:17 [ServerInfo] Move loaded successfully
+19:07:17 [ServerInfo] Quest loaded successfully
+19:07:17 [ServerInfo] Shop loaded successfully
+19:07:17 [ServerInfo] Skill loaded successfully
+19:07:17 [ServerInfo] Util loaded successfully
+19:07:17 [ReadBotInfo] BotSystem loaded successfully
+19:08:58 [ObjectManager][9000] AddClient (177.200.72.252)
+19:09:03 [ObjectManager][9000] AddAccountInfo (felipe)
+19:09:06 [ObjectManager][9000] AddCharacterInfo (teste)
+19:11:10 [ObjectManager][9000] DelCharacterInfo (teste)
+19:11:10 [ObjectManager][9000] DelAccountInfo (felipe)
+19:11:10 [ObjectManager][9000] DelClient (177.200.72.252)
+19:11:15 [ObjectManager][9001] AddClient (177.200.72.252)
+19:11:20 [ObjectManager][9001] AddAccountInfo (felipe)
+19:11:23 [ObjectManager][9001] AddCharacterInfo (teste)
+19:12:08 [ObjectManager][9001] DelCharacterInfo (teste)
+19:12:08 [ObjectManager][9001] DelAccountInfo (felipe)
+19:12:08 [ObjectManager][9001] DelClient (177.200.72.252)
+19:12:18 [ObjectManager][9000] AddClient (177.200.72.252)
+19:12:24 [ObjectManager][9000] AddAccountInfo (felipe)
+19:12:27 [ObjectManager][9000] AddCharacterInfo (sdfsdfds)
+19:13:09 [ObjectManager][9000] DelCharacterInfo (sdfsdfds)
+19:13:09 [ObjectManager][9000] DelAccountInfo (felipe)
+19:13:09 [ObjectManager][9000] DelClient (177.200.72.252)
+19:13:13 [ObjectManager][9001] AddClient (177.200.72.252)
+19:13:17 [ObjectManager][9001] AddAccountInfo (felipe)
+19:13:20 [ObjectManager][9001] AddCharacterInfo (sdfsdfds)
+19:20:11 [ObjectManager][9001] DelCharacterInfo (sdfsdfds)
+19:20:11 [ObjectManager][9001] DelAccountInfo (felipe)
+19:20:11 [ObjectManager][9001] DelClient (177.200.72.252)
+19:36:01 [OnlineLoterry] Não teve vencedor
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:41:38 [ObjectManager][9000] AddClient (168.227.226.253)
+20:41:42 [ObjectManager][9000] AddAccountInfo (bordignon)
+20:41:51 [ObjectManager][9000] AddCharacterInfo (Bordignon)
+21:11:53 [ObjectManager][9000] DelCharacterInfo (Bordignon)
+21:12:00 [ObjectManager][9000] DelAccountInfo (bordignon)
+21:12:00 [ObjectManager][9000] DelClient (168.227.226.253)
+21:16:04 [ObjectManager][9001] AddClient (168.227.226.253)
+21:16:08 [ObjectManager][9001] AddAccountInfo (bordignon)
+21:16:15 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+21:36:01 [OnlineLoterry] Não teve vencedor
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+23:02:22 [bordignon][Bordignon] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+23:36:01 [OnlineLoterry] Não teve vencedor

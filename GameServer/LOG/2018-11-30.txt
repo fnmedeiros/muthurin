@@ -1,0 +1,27 @@
+20:07:57 [ServerInfo] CashShop loaded successfully
+20:07:57 [ServerInfo] ChaosMix loaded successfully
+20:07:57 [ServerInfo] Character loaded successfully
+20:07:57 [ServerInfo] CustomNpcCollector Info loaded successfully
+20:07:57 [ServerInfo] CustomRankUser Info loaded successfully
+20:07:57 [ServerInfo] CustomWingMix Info loaded successfully
+20:07:57 [ServerInfo] CustomRanking Info loaded successfully
+20:07:57 [ServerInfo] Custom loaded successfully
+20:07:57 [ServerInfo] Command loaded successfully
+20:07:57 [ServerInfo] Common loaded successfully
+20:07:57 [ServerInfo] Event loaded successfully
+20:07:58 [ServerInfo] EventItemBag loaded successfully
+20:07:58 [ServerInfo] Hack loaded successfully
+20:07:58 [ServerInfo] Item loaded successfully
+20:08:00 [ServerInfo] Monster loaded successfully
+20:08:00 [ServerInfo] Move loaded successfully
+20:08:00 [ServerInfo] Quest loaded successfully
+20:08:00 [ServerInfo] Shop loaded successfully
+20:08:00 [ServerInfo] Skill loaded successfully
+20:08:00 [ServerInfo] Util loaded successfully
+20:08:00 [ReadBotInfo] BotSystem loaded successfully
+20:13:16 [ObjectManager][9000] AddClient (187.45.25.43)
+20:13:20 [ObjectManager][9000] AddAccountInfo (rodrigolcv)
+20:13:23 [ObjectManager][9000] AddCharacterInfo (ViciadosMu)
+20:13:26 [ObjectManager][9000] DelCharacterInfo (ViciadosMu)
+20:13:26 [ObjectManager][9000] DelAccountInfo (rodrigolcv)
+20:13:26 [ObjectManager][9000] DelClient (187.45.25.43)

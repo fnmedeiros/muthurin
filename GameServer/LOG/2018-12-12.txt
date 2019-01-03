@@ -1,0 +1,133 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+10:40:16 [ObjectManager][9001] AddClient (189.47.250.62)
+10:40:22 [ObjectManager][9001] AddAccountInfo (pasqua)
+10:40:33 [ObjectManager][9001] AddCharacterInfo (Naathy)
+11:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+11:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+12:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+12:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+12:51:44 [ObjectManager][9001] DelCharacterInfo (Naathy)
+12:51:44 [ObjectManager][9001] DelAccountInfo (pasqua)
+12:51:44 [ObjectManager][9001] DelClient (189.47.250.62)
+13:36:01 [OnlineLoterry] Não teve vencedor
+13:37:41 [ObjectManager][9002] AddClient (189.47.250.62)
+13:37:48 [ObjectManager][9002] AddAccountInfo (pasqua)
+13:37:55 [ObjectManager][9002] AddCharacterInfo (Naathy)
+13:42:45 [ObjectManager][9002] DelCharacterInfo (Naathy)
+13:43:34 [ObjectManager][9002] AddCharacterInfo (Naathy)
+13:46:14 [ObjectManager][9002] DelCharacterInfo (Naathy)
+13:46:22 [ObjectManager][9002] AddCharacterInfo (MGDoidaO)
+13:47:22 [ObjectManager][9002] DelCharacterInfo (MGDoidaO)
+13:47:29 [ObjectManager][9002] AddCharacterInfo (Naathy)
+14:09:19 [ObjectManager][9002] DelCharacterInfo (Naathy)
+14:09:30 [ObjectManager][9002] AddCharacterInfo (MGDoidaO)
+14:12:06 [ObjectManager][9002] DelCharacterInfo (MGDoidaO)
+14:12:17 [ObjectManager][9002] AddCharacterInfo (Naathy)
+14:13:10 [ObjectManager][9002] DelCharacterInfo (Naathy)
+14:13:10 [ObjectManager][9002] DelAccountInfo (pasqua)
+14:13:10 [ObjectManager][9002] DelClient (189.47.250.62)
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:36:01 [OnlineLoterry] Não teve vencedor
+20:30:00 [ CRYWOLF ] SYNC Occupation: 1, State: 1
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:38:01 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:16 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:26 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+21:36:01 [OnlineLoterry] Não teve vencedor
+21:49:07 [ServerInfo] CashShop loaded successfully
+21:49:07 [ServerInfo] ChaosMix loaded successfully
+21:49:07 [ServerInfo] Character loaded successfully
+21:49:07 [ServerInfo] CustomNpcCollector Info loaded successfully
+21:49:07 [ServerInfo] CustomRankUser Info loaded successfully
+21:49:07 [ServerInfo] CustomWingMix Info loaded successfully
+21:49:07 [ServerInfo] CustomRanking Info loaded successfully
+21:49:07 [ServerInfo] Custom loaded successfully
+21:49:07 [ServerInfo] Command loaded successfully
+21:49:07 [ServerInfo] Common loaded successfully
+21:49:07 [ServerInfo] Event loaded successfully
+21:49:08 [ServerInfo] EventItemBag loaded successfully
+21:49:08 [ServerInfo] Hack loaded successfully
+21:49:08 [ServerInfo] Item loaded successfully
+21:49:08 [ServerInfo] Monster loaded successfully
+21:49:08 [ServerInfo] Move loaded successfully
+21:49:08 [ServerInfo] Quest loaded successfully
+21:49:09 [ServerInfo] Shop loaded successfully
+21:49:09 [ServerInfo] Skill loaded successfully
+21:49:09 [ServerInfo] Util loaded successfully
+21:49:09 [ReadBotInfo] BotSystem loaded successfully
+21:51:28 [ObjectManager][9000] AddClient (177.200.72.252)
+21:51:34 [ObjectManager][9000] AddAccountInfo (felipe)
+21:51:38 [ObjectManager][9000] AddCharacterInfo (teste)
+21:52:52 [ObjectManager][9000] DelCharacterInfo (teste)
+21:52:52 [ObjectManager][9000] DelAccountInfo (felipe)
+21:52:52 [ObjectManager][9000] DelClient (177.200.72.252)
+21:52:56 [ObjectManager][9001] AddClient (177.200.72.252)
+21:53:00 [ObjectManager][9001] AddAccountInfo (felipe)
+21:53:03 [ObjectManager][9001] AddCharacterInfo (teste)
+21:54:59 [ObjectManager][9001] DelCharacterInfo (teste)
+21:54:59 [ObjectManager][9001] DelAccountInfo (felipe)
+21:54:59 [ObjectManager][9001] DelClient (177.200.72.252)
+22:05:00 [KING OF MU] Start
+22:17:53 [ServerInfo] CashShop loaded successfully
+22:17:53 [ServerInfo] ChaosMix loaded successfully
+22:17:53 [ServerInfo] Character loaded successfully
+22:17:53 [ServerInfo] CustomNpcCollector Info loaded successfully
+22:17:53 [ServerInfo] CustomRankUser Info loaded successfully
+22:17:53 [ServerInfo] CustomWingMix Info loaded successfully
+22:17:53 [ServerInfo] CustomRanking Info loaded successfully
+22:17:53 [ServerInfo] Custom loaded successfully
+22:17:53 [ServerInfo] Command loaded successfully
+22:17:53 [ServerInfo] Common loaded successfully
+22:17:53 [ServerInfo] Event loaded successfully
+22:17:53 [ServerInfo] EventItemBag loaded successfully
+22:17:53 [ServerInfo] Hack loaded successfully
+22:17:53 [ServerInfo] Item loaded successfully
+22:17:53 [ServerInfo] Monster loaded successfully
+22:17:53 [ServerInfo] Move loaded successfully
+22:17:53 [ServerInfo] Quest loaded successfully
+22:17:53 [ServerInfo] Shop loaded successfully
+22:17:53 [ServerInfo] Skill loaded successfully
+22:17:53 [ServerInfo] Util loaded successfully
+22:17:53 [ReadBotInfo] BotSystem loaded successfully
+22:18:38 [ObjectManager][9000] AddClient (177.200.72.252)
+22:18:43 [ObjectManager][9000] AddAccountInfo (felipe)
+22:18:54 [ObjectManager][9000] AddCharacterInfo (teste)
+22:20:34 [ObjectManager][9000] DelCharacterInfo (teste)
+22:20:34 [ObjectManager][9000] DelAccountInfo (felipe)
+22:20:34 [ObjectManager][9000] DelClient (177.200.72.252)
+22:31:00 [ObjectManager][9000] AddClient (189.47.250.62)
+22:31:10 [ObjectManager][9000] AddAccountInfo (pasqua)
+22:31:17 [ObjectManager][9000] AddCharacterInfo (Naathy)
+22:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+22:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+23:23:07 [ObjectManager][9000] DelCharacterInfo (Naathy)
+23:23:07 [ObjectManager][9000] DelAccountInfo (pasqua)
+23:23:07 [ObjectManager][9000] DelClient (189.47.250.62)
+23:23:09 [ObjectManager][9001] AddClient (189.47.250.62)
+23:23:19 [ObjectManager][9001] AddAccountInfo (pasqua)
+23:23:20 [ObjectManager][9001] AddCharacterInfo (Naathy)
+23:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+23:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+23:47:36 [ObjectManager][9001] DelCharacterInfo (Naathy)
+23:47:42 [ObjectManager][9001] AddCharacterInfo (MGDoidaO)
+23:49:53 [ObjectManager][9001] DelCharacterInfo (MGDoidaO)
+23:50:00 [ObjectManager][9001] AddCharacterInfo (Naathy)
+23:50:42 [ObjectManager][9001] DelCharacterInfo (Naathy)
+23:50:42 [ObjectManager][9001] DelAccountInfo (pasqua)
+23:50:42 [ObjectManager][9001] DelClient (189.47.250.62)

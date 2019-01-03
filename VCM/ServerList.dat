@@ -1,0 +1,16 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//ServerCode  ServerName      ServerAddress        ServerPort       ServerType
+0              	"MuThurin"        "167.114.88.235"        55901            "SHOW"
+1              	"MuThurin2"       "167.114.88.235"        55903            "HIDE"
+2              	"MuThurin3"       "167.114.88.235"        55905            "HIDE"
+19              "MuThurinCS"      "167.114.88.235"        55919            "HIDE"
+end

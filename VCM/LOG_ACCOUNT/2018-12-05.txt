@@ -1,0 +1,8 @@
+08:04:58 [AccountInfo] Account connected (Account: samuraix, IpAddress: 187.7.47.230, GameServerCode: 0)
+08:07:01 [AccountInfo] Account disconnected (Account: samuraix, IpAddress: 187.7.47.230, GameServerCode: 0)
+09:50:20 [AccountInfo] Account connected (Account: bordignon, IpAddress: 168.227.226.236, GameServerCode: 0)
+10:58:06 [AccountInfo] Account connected (Account: eriique, IpAddress: 177.103.60.235, GameServerCode: 0)
+11:03:52 [AccountInfo] Account disconnected (Account: eriique, IpAddress: 177.103.60.235, GameServerCode: 0)
+11:23:37 [AccountInfo] Account disconnected (Account: bordignon, IpAddress: 168.227.226.236, GameServerCode: 0)
+22:13:23 [AccountInfo] Account connected (Account: dedaolip, IpAddress: 177.200.72.252, GameServerCode: 0)
+22:18:09 [AccountInfo] Account disconnected (Account: dedaolip, IpAddress: 177.200.72.252, GameServerCode: 0)

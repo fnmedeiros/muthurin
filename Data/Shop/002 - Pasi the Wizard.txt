@@ -1,0 +1,52 @@
+// ----------------------------------------------------\\
+//        Hospedagem feita por Rodrigo                 \\
+// 						       \\
+// File  Name : Season8+Itens Viciados                 \\
+// ViciadosMU: wWw.ViciadosMu.com.br                   \\
+// Creditos: shop@viciadosmu.com.br | skype viciadosmu \\
+// Disponibilizamos para ajudar a todos                \\
+// Compre produtos ou jogue em nossos servidores       \\
+// Shop ViciadosMu: wWw.Shop.ViciadosMu.com.br         \\
+// --------------------------------------------------- \\
+//Sec   Type   Level   Dur   Skill   Luck   Option   Excellent
+15 0 0 255 0 0 0 0 //Poison 
+15 1 0 255 0 0 0 0 //Meteorite 
+15 2 0 255 0 0 0 0 //Lightning 
+15 3 0 255 0 0 0 0 //Fireball 
+15 4 0 255 0 0 0 0 //Flame 
+15 5 0 255 0 0 0 0 //Teleport 
+15 6 0 255 0 0 0 0 //Ice 
+15 7 0 255 0 0 0 0 //Twister 
+15 8 0 255 0 0 0 0 //Evil Spirits 
+15 9 0 255 0 0 0 0 //Hellfire 
+15 10 0 255 0 0 0 0 //Power Wave 
+15 11 0 255 0 0 0 0 //Aurora 
+15 12 0 255 0 0 0 0 //Comet 
+15 13 0 255 0 0 0 0 //Inferno 
+15 14 0 255 0 0 0 0 //Scroll of Mass Teleport
+15 15 0 255 0 0 0 0 //Scroll of Soul Barrier
+7 2 7 255 0 0 0 0 //Pad helm 
+7 4 7 255 0 0 0 0 //Bone helm 
+
+5 3 7 255 0 0 0 0 //Thunderstaff 
+5 4 7 255 0 0 0 0 //Gorgonstaff 
+
+8 2 7 255 0 0 0 0 //Pad armor 
+8 4 7 255 0 0 0 0 //Bone armor 
+
+9 2 7 255 0 0 0 0 //Pad pants 
+9 4 7 255 0 0 0 0 //Bone pants 
+
+5 5 7 255 0 0 0 0 //Legendary Staff 
+5 6 7 255 0 0 0 0 //Resurrectstaff 
+5 8 7 255 0 0 0 0 //Staff Of Destruction 
+
+10 2 7 255 0 0 0 0 //Pad gloves 
+10 4 7 255 0 0 0 0 //Bone gloves 
+
+11 2 7 255 0 0 0 0 //Pad boots
+11 4 7 255 0 0 0 0 //Bone boots
+6 4 7 255 0 0 0 0 //Towershield 
+6 6 7 255 0 0 0 0 //Ironshield 
+end
+

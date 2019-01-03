@@ -1,0 +1,17 @@
+06:17:38 [SocketManager] WSARecv() failed with error: 10053
+06:51:59 [SocketManager] WSARecv() failed with error: 10053
+06:52:16 [SocketManager] WSARecv() failed with error: 10053
+07:27:05 [SocketManager] WSARecv() failed with error: 10053
+08:48:39 [SocketManager] WSARecv() failed with error: 10053
+10:20:20 [SocketManager] WSARecv() failed with error: 10053
+11:32:47 [SocketManager] WSARecv() failed with error: 10053
+13:48:11 [SocketManager] WSARecv() failed with error: 10053
+15:04:14 [SocketManager] WSARecv() failed with error: 10053
+15:39:30 [SocketManager] WSARecv() failed with error: 10053
+16:09:54 [SocketManager] WSARecv() failed with error: 10053
+18:55:25 [SocketManager] WSARecv() failed with error: 10053
+19:00:54 [SocketManager] WSARecv() failed with error: 10053
+19:47:03 [SocketManager] WSARecv() failed with error: 10053
+20:31:17 [SocketManager] WSARecv() failed with error: 10053
+21:19:31 [SocketManager] WSARecv() failed with error: 10053
+22:41:53 [SocketManager] WSARecv() failed with error: 10053

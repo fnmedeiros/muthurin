@@ -1,0 +1,121 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:36:01 [OnlineLoterry] Não teve vencedor
+12:36:01 [OnlineLoterry] Não teve vencedor
+12:44:00 [ObjectManager][9000] AddClient (177.200.72.252)
+12:44:05 [ObjectManager][9000] AddAccountInfo (dedaolip)
+12:44:37 [ObjectManager][9000] AddCharacterInfo (Thurin)
+12:44:51 [ObjectManager][9000] DelCharacterInfo (Thurin)
+12:44:51 [ObjectManager][9000] DelAccountInfo (dedaolip)
+12:44:51 [ObjectManager][9000] DelClient (177.200.72.252)
+13:36:01 [OnlineLoterry] Não teve vencedor
+14:29:32 [ObjectManager][9001] AddClient (187.7.47.230)
+14:29:54 [ObjectManager][9001] AddAccountInfo (samuraix)
+14:31:26 [ObjectManager][9001] AddCharacterInfo (PunisheR)
+14:36:01 [OnlineLoterry] Participante adicionado ao sorteio (PunisheR)
+14:36:01 [OnlineLoterry] Vencedor do sorteio (PunisheR)
+14:46:12 [ObjectManager][9001] DelCharacterInfo (PunisheR)
+14:46:12 [ObjectManager][9001] DelAccountInfo (samuraix)
+14:46:12 [ObjectManager][9001] DelClient (187.7.47.230)
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:26:55 [ObjectManager][9000] AddClient (177.200.72.252)
+19:26:58 [ObjectManager][9000] AddAccountInfo (dedaolip)
+19:27:05 [ObjectManager][9000] AddCharacterInfo (Thurin)
+19:33:23 [ObjectManager][9000] DelCharacterInfo (Thurin)
+19:33:47 [ObjectManager][9000] DelAccountInfo (dedaolip)
+19:33:47 [ObjectManager][9000] DelClient (177.200.72.252)
+19:34:02 [ObjectManager][9001] AddClient (177.200.72.252)
+19:34:09 [ObjectManager][9001] AddAccountInfo (dedaolip)
+19:34:13 [ObjectManager][9001] AddCharacterInfo (Thurin)
+19:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Thurin)
+19:36:01 [OnlineLoterry] Vencedor do sorteio (Thurin)
+19:51:02 [ObjectManager][9000] AddClient (168.227.226.236)
+19:51:14 [ObjectManager][9000] AddAccountInfo (bordignon)
+19:51:30 [ObjectManager][9000] AddCharacterInfo (Bordignon)
+19:51:37 [ServerInfo] Shop loaded successfully
+19:52:57 [ObjectManager][9000] DelCharacterInfo (Bordignon)
+19:52:57 [ObjectManager][9000] DelAccountInfo (bordignon)
+19:52:57 [ObjectManager][9000] DelClient (168.227.226.236)
+19:57:43 [ObjectManager][9000] AddClient (168.227.226.236)
+19:57:49 [ObjectManager][9000] AddAccountInfo (bordignon)
+19:58:14 [ObjectManager][9000] AddCharacterInfo (Bordignon)
+19:58:16 [ServerInfo] Shop loaded successfully
+20:06:40 [ServerInfo] Shop loaded successfully
+20:09:28 [ObjectManager][9000] DelCharacterInfo (Bordignon)
+20:10:10 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+20:10:37 [ServerInfo] Shop loaded successfully
+20:15:12 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+20:15:23 [ObjectManager][9000] AddCharacterInfo (Bordignon)
+20:18:51 [CustomGift][dedaolip][Thurin] GiftNumber: 1
+20:18:59 [CustomGift][dedaolip][Thurin] GiftNumber: 2
+20:19:06 [CustomGift][dedaolip][Thurin] GiftNumber: 3
+20:19:09 [CustomGift][dedaolip][Thurin] GiftNumber: 4
+20:19:15 [CustomGift][dedaolip][Thurin] GiftNumber: 5
+20:32:08 [ObjectManager][9001] DelCharacterInfo (Thurin)
+20:32:08 [ObjectManager][9001] DelAccountInfo (dedaolip)
+20:32:08 [ObjectManager][9001] DelClient (177.200.72.252)
+20:32:52 [ObjectManager][9001] AddClient (177.200.72.252)
+20:32:58 [ObjectManager][9001] AddAccountInfo (dedaolip)
+20:33:01 [ObjectManager][9001] AddCharacterInfo (Thurin)
+20:34:23 [ObjectManager][9001] DelCharacterInfo (Thurin)
+20:34:23 [ObjectManager][9001] DelAccountInfo (dedaolip)
+20:34:23 [ObjectManager][9001] DelClient (177.200.72.252)
+20:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Bordignon)
+20:36:01 [OnlineLoterry] Vencedor do sorteio (Bordignon)
+20:52:33 [ObjectManager][9000] DelCharacterInfo (Bordignon)
+20:52:38 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+21:09:44 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+21:09:48 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+21:11:49 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+21:11:54 [ObjectManager][9000] AddCharacterInfo (Bordignon)
+21:12:43 [ObjectManager][9000] DelCharacterInfo (Bordignon)
+21:12:51 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+21:16:07 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+21:16:07 [ObjectManager][9000] DelAccountInfo (bordignon)
+21:16:07 [ObjectManager][9000] DelClient (168.227.226.236)
+21:31:45 [ObjectManager][9001] AddClient (177.200.72.252)
+21:31:49 [ObjectManager][9001] AddAccountInfo (dedaolip)
+21:31:54 [ObjectManager][9001] AddCharacterInfo (Thurin)
+21:33:29 [ServerInfo] Monster loaded successfully
+21:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Thurin)
+21:36:01 [OnlineLoterry] Vencedor do sorteio (Thurin)
+21:40:33 [ObjectManager][9001] DelCharacterInfo (Thurin)
+21:40:47 [ObjectManager][9001] AddCharacterInfo (Dedao)
+22:05:00 [KING OF MU] Start
+22:08:10 [BotBuffer] CharName: Dedao - ADD_GREATER_DAMAGE SecondSkillTime: 5
+22:08:18 [BotBuffer] CharName: Dedao - ADD_DAMAGE_REFLECT SecondSkillTime: 5
+22:08:24 [BotBuffer] CharName: Dedao - ADD_CRITICAL_DAMAGE SecondSkillTime: 5
+22:08:29 [BotBuffer] CharName: Dedao - ADD_FITNESS SecondSkillTime: 5
+22:09:58 [ObjectManager][9000] AddClient (168.227.226.236)
+22:10:05 [ObjectManager][9000] AddAccountInfo (bordignon)
+22:10:14 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+22:15:42 [dedaolip][Dedao] Kill [bordignon][Bordignon3]
+22:32:32 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+22:32:32 [ObjectManager][9000] DelAccountInfo (bordignon)
+22:32:32 [ObjectManager][9000] DelClient (168.227.226.236)
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+22:40:13 [ServerInfo] Shop loaded successfully
+22:52:37 [ObjectManager][9001] DelCharacterInfo (Dedao)
+22:52:37 [ObjectManager][9001] DelAccountInfo (dedaolip)
+22:52:37 [ObjectManager][9001] DelClient (177.200.72.252)
+22:53:14 [ObjectManager][9000] AddClient (177.200.72.252)
+22:53:17 [ObjectManager][9000] AddAccountInfo (dedaolip)
+22:53:24 [ObjectManager][9000] AddCharacterInfo (Dedao)
+22:59:58 [ServerInfo] Shop loaded successfully
+23:30:15 [ObjectManager][9000] DelCharacterInfo (Dedao)
+23:30:15 [ObjectManager][9000] DelAccountInfo (dedaolip)
+23:30:15 [ObjectManager][9000] DelClient (177.200.72.252)
+23:36:01 [OnlineLoterry] Não teve vencedor

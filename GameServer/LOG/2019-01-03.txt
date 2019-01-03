@@ -1,0 +1,42 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+08:50:45 [ObjectManager][9000] AddClient (177.74.186.78)
+08:50:51 [ObjectManager][9000] AddAccountInfo (fajusto)
+08:50:57 [ObjectManager][9000] AddCharacterInfo (Gaddock)
+08:56:18 [ObjectManager][9000] DelCharacterInfo (Gaddock)
+08:56:18 [ObjectManager][9000] DelAccountInfo (fajusto)
+08:56:18 [ObjectManager][9000] DelClient (177.74.186.78)
+08:57:22 [ObjectManager][9001] AddClient (177.74.186.78)
+08:57:32 [ObjectManager][9001] AddAccountInfo (fajusto)
+08:57:32 [ObjectManager][9001] AddCharacterInfo (Gaddock)
+08:59:33 [ObjectManager][9001] DelCharacterInfo (Gaddock)
+08:59:36 [ObjectManager][9001] AddCharacterInfo (Justo)
+09:09:16 [ObjectManager][9001] DelCharacterInfo (Justo)
+09:09:17 [ObjectManager][9001] DelAccountInfo (fajusto)
+09:09:17 [ObjectManager][9001] DelClient (177.74.186.78)
+09:10:35 [ObjectManager][9000] AddClient (177.74.186.78)
+09:10:36 [ObjectManager][9000] AddAccountInfo (fajusto)
+09:10:36 [ObjectManager][9000] AddCharacterInfo (Justo)
+09:21:33 [ObjectManager][9000] DelCharacterInfo (Justo)
+09:21:36 [ObjectManager][9000] AddCharacterInfo (Justo)
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:00:01 [ObjectManager][9000] DelCharacterInfo (Justo)
+10:00:01 [ObjectManager][9000] DelAccountInfo (fajusto)
+10:00:01 [ObjectManager][9000] DelClient (177.74.186.78)
+10:01:21 [ObjectManager][9001] AddClient (177.74.186.78)
+10:01:25 [ObjectManager][9001] AddAccountInfo (fajusto)
+10:01:29 [ObjectManager][9001] AddCharacterInfo (Justo)
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:21:55 [ObjectManager][9001] DelCharacterInfo (Justo)
+11:21:55 [ObjectManager][9001] DelAccountInfo (fajusto)
+11:21:55 [ObjectManager][9001] DelClient (177.74.186.78)
+11:36:01 [OnlineLoterry] Não teve vencedor
+12:36:01 [OnlineLoterry] Não teve vencedor
+13:36:01 [OnlineLoterry] Não teve vencedor

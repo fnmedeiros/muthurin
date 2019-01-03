@@ -1,0 +1,2 @@
+10:53:03 [AccountInfo] Account connected (Account: bordignon, IpAddress: 168.227.226.55, GameServerCode: 0)
+10:53:49 [AccountInfo] Account disconnected (Account: bordignon, IpAddress: 168.227.226.55, GameServerCode: 0)

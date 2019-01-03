@@ -1,0 +1,63 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:36:01 [OnlineLoterry] Não teve vencedor
+12:36:01 [OnlineLoterry] Não teve vencedor
+13:36:01 [OnlineLoterry] Não teve vencedor
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:18:39 [ObjectManager][9001] AddClient (189.47.250.62)
+15:18:48 [ObjectManager][9001] AddAccountInfo (pasqua)
+15:20:36 [ObjectManager][9001] AddCharacterInfo (Naathy)
+15:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+15:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+16:00:41 [ObjectManager][9001] DelCharacterInfo (Naathy)
+16:00:42 [ObjectManager][9001] DelAccountInfo (pasqua)
+16:00:42 [ObjectManager][9001] DelClient (189.47.250.62)
+16:01:23 [ObjectManager][9002] AddClient (189.47.250.62)
+16:01:23 [ObjectManager][9002] AddAccountInfo (pasqua)
+16:01:23 [ObjectManager][9002] AddCharacterInfo (Naathy)
+16:22:54 [ObjectManager][9002] DelCharacterInfo (Naathy)
+16:22:54 [ObjectManager][9002] DelAccountInfo (pasqua)
+16:22:54 [ObjectManager][9002] DelClient (189.47.250.62)
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:36:01 [OnlineLoterry] Não teve vencedor
+19:48:17 [ObjectManager][9000] AddClient (138.0.124.226)
+19:48:28 [ObjectManager][9000] AddAccountInfo (rafael)
+19:48:36 [ObjectManager][9000] AddCharacterInfo (Conhaque)
+20:01:55 [ObjectManager][9000] DelCharacterInfo (Conhaque)
+20:01:56 [ObjectManager][9000] DelAccountInfo (rafael)
+20:01:56 [ObjectManager][9000] DelClient (138.0.124.226)
+20:03:59 [ObjectManager][9001] AddClient (138.0.124.226)
+20:04:00 [ObjectManager][9001] AddAccountInfo (rafael)
+20:04:00 [ObjectManager][9001] AddCharacterInfo (Conhaque)
+20:10:22 [ObjectManager][9001] DelCharacterInfo (Conhaque)
+20:10:23 [ObjectManager][9001] DelAccountInfo (rafael)
+20:10:23 [ObjectManager][9001] DelClient (138.0.124.226)
+20:12:50 [ObjectManager][9002] AddClient (138.0.124.226)
+20:12:51 [ObjectManager][9002] AddAccountInfo (rafael)
+20:12:51 [ObjectManager][9002] AddCharacterInfo (Conhaque)
+20:16:18 [ObjectManager][9002] DelCharacterInfo (Conhaque)
+20:16:19 [ObjectManager][9002] DelAccountInfo (rafael)
+20:16:19 [ObjectManager][9002] DelClient (138.0.124.226)
+20:16:48 [ObjectManager][9000] AddClient (138.0.124.226)
+20:16:49 [ObjectManager][9000] AddAccountInfo (rafael)
+20:16:49 [ObjectManager][9000] AddCharacterInfo (Conhaque)
+20:21:30 [ObjectManager][9000] DelCharacterInfo (Conhaque)
+20:21:30 [ObjectManager][9000] DelAccountInfo (rafael)
+20:21:30 [ObjectManager][9000] DelClient (138.0.124.226)
+20:36:01 [OnlineLoterry] Não teve vencedor
+21:36:01 [OnlineLoterry] Não teve vencedor
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+23:36:01 [OnlineLoterry] Não teve vencedor

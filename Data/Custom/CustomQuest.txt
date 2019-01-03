@@ -1,0 +1,37 @@
+// Sistema de Quests by louis
+
+// Require Character Stats
+0
+//Quest	Level	Reset	MReset	Zen	Mapa	X	Y	VipLevel
+1	20	*	*	1000	0 	125	125	*
+2	200	*	*	1000	* 	*	*	*
+end
+
+
+// Require Item
+// O item será removido - The Item will be removed
+//	Luck: 	0 = sem luck, 	1 = com luck, 	* = qualquer
+//	Skill: 	0 = sem skill, 	1 = com skill, 	* = qualquer
+1
+//Quest	Cat	Item	Level	Luck	Skill	
+1	1	4	10	1	*
+2	1	4	*	*	*
+end
+
+
+// Require Monster Kill
+2
+//Quest	Monster	Qtd
+1	3	10
+2	*	*
+end
+
+
+
+// Reward (Prêmio)
+// Procedure: WZ_SetCoin
+3
+//Quest WC	WP	GP
+1	1	5	10
+2	*	*	15
+end

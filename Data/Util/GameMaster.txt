@@ -1,0 +1,4 @@
+//Account         Name         Level
+"loginADM" 	"nickADM" 	2
+"loginGM" 	"nickGM" 	1
+end

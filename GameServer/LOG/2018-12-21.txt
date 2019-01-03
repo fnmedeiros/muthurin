@@ -1,0 +1,101 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+00:36:30 [pasqua][Naathy] WZ_SetCoin Value1: 2, Value2: 0, Value3: 0
+00:43:35 [ObjectManager][9000] DelCharacterInfo (Naathy)
+00:43:42 [ObjectManager][9000] AddCharacterInfo (MGDoidaO)
+01:01:07 [ObjectManager][9000] DelCharacterInfo (MGDoidaO)
+01:01:07 [ObjectManager][9000] DelAccountInfo (pasqua)
+01:01:07 [ObjectManager][9000] DelClient (177.188.82.225)
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:01:33 [ObjectManager][9002] AddClient (177.188.82.225)
+03:01:39 [ObjectManager][9002] AddAccountInfo (pasqua)
+03:01:47 [ObjectManager][9002] AddCharacterInfo (MGDoidaO)
+03:36:01 [OnlineLoterry] Participante adicionado ao sorteio (MGDoidaO)
+03:36:01 [OnlineLoterry] Vencedor do sorteio (MGDoidaO)
+03:39:38 [ObjectManager][9002] DelCharacterInfo (MGDoidaO)
+03:39:38 [ObjectManager][9002] DelAccountInfo (pasqua)
+03:39:38 [ObjectManager][9002] DelClient (177.188.82.225)
+03:41:26 [ObjectManager][9001] AddClient (177.188.82.225)
+03:41:26 [ObjectManager][9001] AddAccountInfo (pasqua)
+03:41:26 [ObjectManager][9001] AddCharacterInfo (MGDoidaO)
+03:42:24 [ObjectManager][9001] DelCharacterInfo (MGDoidaO)
+03:42:24 [ObjectManager][9001] DelAccountInfo (pasqua)
+03:42:24 [ObjectManager][9001] DelClient (177.188.82.225)
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:36:01 [OnlineLoterry] Não teve vencedor
+12:36:01 [OnlineLoterry] Não teve vencedor
+13:36:01 [OnlineLoterry] Não teve vencedor
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+18:51:04 [ObjectManager][9000] AddClient (168.227.226.55)
+18:51:11 [ObjectManager][9000] AddAccountInfo (bordignon)
+18:51:49 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+18:53:29 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+18:53:29 [ObjectManager][9000] DelAccountInfo (bordignon)
+18:53:29 [ObjectManager][9000] DelClient (168.227.226.55)
+18:55:04 [ObjectManager][9002] AddClient (168.227.226.55)
+18:55:09 [ObjectManager][9002] AddAccountInfo (bordignon)
+18:56:16 [ObjectManager][9002] DelAccountInfo (bordignon)
+18:56:16 [ObjectManager][9002] DelClient (168.227.226.55)
+18:56:16 Game response error causes conclusion [9002][][][168.227.226.55]
+19:20:59 [ObjectManager][9001] AddClient (187.84.5.95)
+19:21:06 [ObjectManager][9001] AddAccountInfo (felipe)
+19:21:13 [ObjectManager][9001] AddCharacterInfo (teste)
+19:24:17 [ObjectManager][9001] DelCharacterInfo (teste)
+19:24:20 [ObjectManager][9001] AddCharacterInfo (teste)
+19:24:29 [ObjectManager][9001] DelCharacterInfo (teste)
+19:24:29 [ObjectManager][9001] DelAccountInfo (felipe)
+19:24:29 [ObjectManager][9001] DelClient (187.84.5.95)
+19:24:32 [ObjectManager][9000] AddClient (187.84.5.95)
+19:24:38 [ObjectManager][9000] AddAccountInfo (felipe)
+19:24:42 [ObjectManager][9000] AddCharacterInfo (teste)
+19:28:06 [ObjectManager][9000] DelCharacterInfo (teste)
+19:28:06 [ObjectManager][9000] DelAccountInfo (felipe)
+19:28:06 [ObjectManager][9000] DelClient (187.84.5.95)
+19:28:08 [ObjectManager][9002] AddClient (187.84.5.95)
+19:28:18 [ObjectManager][9002] AddAccountInfo (felipe)
+19:28:20 [ObjectManager][9002] AddCharacterInfo (teste)
+19:30:43 [ObjectManager][9002] DelCharacterInfo (teste)
+19:30:43 [ObjectManager][9002] DelAccountInfo (felipe)
+19:30:43 [ObjectManager][9002] DelClient (187.84.5.95)
+19:32:19 [ServerInfo] CashShop loaded successfully
+19:32:48 [ObjectManager][9001] AddClient (187.84.5.95)
+19:32:51 [ObjectManager][9001] AddAccountInfo (felipe)
+19:32:56 [ObjectManager][9001] AddCharacterInfo (teste)
+19:33:30 [ObjectManager][9001] DelCharacterInfo (teste)
+19:33:30 [ObjectManager][9001] DelAccountInfo (felipe)
+19:33:30 [ObjectManager][9001] DelClient (187.84.5.95)
+19:33:32 [ObjectManager][9000] AddClient (187.84.5.95)
+19:33:34 [ObjectManager][9000] AddAccountInfo (felipe)
+19:33:36 [ObjectManager][9000] AddCharacterInfo (teste)
+19:34:16 [ObjectManager][9000] DelCharacterInfo (teste)
+19:34:16 [ObjectManager][9000] DelAccountInfo (felipe)
+19:34:16 [ObjectManager][9000] DelClient (187.84.5.95)
+19:34:19 [ObjectManager][9002] AddClient (187.84.5.95)
+19:34:27 [ObjectManager][9002] AddAccountInfo (felipe)
+19:34:29 [ObjectManager][9002] AddCharacterInfo (teste)
+19:35:14 [ObjectManager][9002] DelCharacterInfo (teste)
+19:35:14 [ObjectManager][9002] DelAccountInfo (felipe)
+19:35:14 [ObjectManager][9002] DelClient (187.84.5.95)
+19:36:01 [OnlineLoterry] Não teve vencedor
+20:16:22 [ObjectManager][9001] AddClient (168.227.226.55)
+20:16:29 [ObjectManager][9001] AddAccountInfo (bordignon)
+20:16:33 [ObjectManager][9001] AddCharacterInfo (Bordignon3)
+20:36:01 [OnlineLoterry] Não teve vencedor
+21:36:01 [OnlineLoterry] Não teve vencedor
+22:05:00 [KING OF MU] Start
+22:14:46 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+22:14:46 [ObjectManager][9001] DelAccountInfo (bordignon)
+22:14:46 [ObjectManager][9001] DelClient (168.227.226.55)
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+23:36:01 [OnlineLoterry] Não teve vencedor

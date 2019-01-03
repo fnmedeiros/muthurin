@@ -1,0 +1,60 @@
+00:02:54 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+00:02:54 [ObjectManager][9001] DelAccountInfo (bordignon)
+00:02:54 [ObjectManager][9001] DelClient (168.227.226.78)
+00:27:12 [ObjectManager][9002] AddClient (177.188.82.225)
+00:27:20 [ObjectManager][9002] AddAccountInfo (pasqua)
+00:27:30 [ObjectManager][9002] AddCharacterInfo (Naathy)
+00:29:23 [ObjectManager][9000] AddClient (168.227.226.78)
+00:29:27 [ObjectManager][9000] AddAccountInfo (bordignon)
+00:29:37 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+00:32:58 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+00:32:58 [ObjectManager][9000] DelAccountInfo (bordignon)
+00:32:58 [ObjectManager][9000] DelClient (168.227.226.78)
+00:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Naathy)
+00:36:01 [OnlineLoterry] Vencedor do sorteio (Naathy)
+01:33:24 [ObjectManager][9002] DelCharacterInfo (Naathy)
+01:33:24 [ObjectManager][9002] DelAccountInfo (pasqua)
+01:33:24 [ObjectManager][9002] DelClient (177.188.82.225)
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:36:01 [OnlineLoterry] Não teve vencedor
+09:06:22 [ObjectManager][9001] AddClient (168.227.226.222)
+09:06:27 [ObjectManager][9001] AddAccountInfo (bordignon)
+09:06:44 [ObjectManager][9001] AddCharacterInfo (Bordignon3)
+09:17:05 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+09:17:14 [ObjectManager][9001] AddCharacterInfo (Bordignon)
+09:20:09 [ObjectManager][9001] DelCharacterInfo (Bordignon)
+09:20:15 [ObjectManager][9001] AddCharacterInfo (Bordignon4)
+09:22:01 [ObjectManager][9001] DelCharacterInfo (Bordignon4)
+09:22:14 [ObjectManager][9001] AddCharacterInfo (Bordignon3)
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:11:51 [ObjectManager][9001] DelCharacterInfo (Bordignon3)
+11:11:51 [ObjectManager][9001] DelAccountInfo (bordignon)
+11:11:51 [ObjectManager][9001] DelClient (168.227.226.222)
+11:36:01 [OnlineLoterry] Não teve vencedor
+12:36:01 [OnlineLoterry] Não teve vencedor
+13:36:01 [OnlineLoterry] Não teve vencedor
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+19:36:01 [OnlineLoterry] Não teve vencedor
+20:30:00 [ CRYWOLF ] SYNC Occupation: 1, State: 1
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:15 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:25 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+21:36:01 [OnlineLoterry] Não teve vencedor
+22:05:00 [KING OF MU] Start
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+23:36:01 [OnlineLoterry] Não teve vencedor

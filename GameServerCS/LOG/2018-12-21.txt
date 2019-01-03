@@ -1,0 +1,7 @@
+03:39:38 [ObjectManager][3500] AddClient (177.188.82.225)
+03:39:39 [ObjectManager][3500] AddAccountInfo (pasqua)
+03:39:39 [ObjectManager][3500] AddCharacterInfo (MGDoidaO)
+03:41:25 [ObjectManager][3500] DelCharacterInfo (MGDoidaO)
+03:41:25 [ObjectManager][3500] DelAccountInfo (pasqua)
+03:41:25 [ObjectManager][3500] DelClient (177.188.82.225)
+19:32:22 [ServerInfo] CashShop loaded successfully

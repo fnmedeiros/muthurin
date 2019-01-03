@@ -1,0 +1,6 @@
+20:01:08 [ObjectManager][3500] AddClient (201.35.130.187)
+20:01:09 [ObjectManager][3500] AddAccountInfo (craff)
+20:01:09 [ObjectManager][3500] AddCharacterInfo (RioCookieJ)
+20:04:48 [ObjectManager][3500] DelCharacterInfo (RioCookieJ)
+20:04:49 [ObjectManager][3500] DelAccountInfo (craff)
+20:04:49 [ObjectManager][3500] DelClient (201.35.130.187)

@@ -1,0 +1,251 @@
+00:36:01 [OnlineLoterry] Não teve vencedor
+01:36:01 [OnlineLoterry] Não teve vencedor
+02:36:01 [OnlineLoterry] Não teve vencedor
+03:36:01 [OnlineLoterry] Não teve vencedor
+04:36:01 [OnlineLoterry] Não teve vencedor
+05:36:01 [OnlineLoterry] Não teve vencedor
+06:36:01 [OnlineLoterry] Não teve vencedor
+07:36:01 [OnlineLoterry] Não teve vencedor
+08:32:47 [ServerInfo] CashShop loaded successfully
+08:32:47 [ServerInfo] ChaosMix loaded successfully
+08:32:47 [ServerInfo] Character loaded successfully
+08:32:47 [ServerInfo] CustomNpcCollector Info loaded successfully
+08:32:47 [ServerInfo] CustomRankUser Info loaded successfully
+08:32:47 [ServerInfo] CustomWingMix Info loaded successfully
+08:32:47 [ServerInfo] CustomRanking Info loaded successfully
+08:32:47 [ServerInfo] Custom loaded successfully
+08:32:47 [ServerInfo] Command loaded successfully
+08:32:47 [ServerInfo] Common loaded successfully
+08:32:47 [ServerInfo] Event loaded successfully
+08:32:47 [ServerInfo] EventItemBag loaded successfully
+08:32:47 [ServerInfo] Hack loaded successfully
+08:32:47 [ServerInfo] Item loaded successfully
+08:32:48 [ServerInfo] Monster loaded successfully
+08:32:48 [ServerInfo] Move loaded successfully
+08:32:48 [ServerInfo] Quest loaded successfully
+08:32:48 [ServerInfo] Shop loaded successfully
+08:32:48 [ServerInfo] Skill loaded successfully
+08:32:48 [ServerInfo] Util loaded successfully
+08:32:48 [ReadBotInfo] BotSystem loaded successfully
+08:36:01 [OnlineLoterry] Não teve vencedor
+08:51:32 [ServerInfo] CashShop loaded successfully
+08:51:32 [ServerInfo] ChaosMix loaded successfully
+08:51:32 [ServerInfo] Character loaded successfully
+08:51:32 [ServerInfo] CustomNpcCollector Info loaded successfully
+08:51:32 [ServerInfo] CustomRankUser Info loaded successfully
+08:51:32 [ServerInfo] CustomWingMix Info loaded successfully
+08:51:32 [ServerInfo] CustomRanking Info loaded successfully
+08:51:32 [ServerInfo] Custom loaded successfully
+08:51:32 [ServerInfo] Command loaded successfully
+08:51:32 [ServerInfo] Common loaded successfully
+08:51:32 [ServerInfo] Event loaded successfully
+08:51:32 [ServerInfo] EventItemBag loaded successfully
+08:51:32 [ServerInfo] Hack loaded successfully
+08:51:32 [ServerInfo] Item loaded successfully
+08:51:32 [ServerInfo] Monster loaded successfully
+08:51:32 [ServerInfo] Move loaded successfully
+08:51:32 [ServerInfo] Quest loaded successfully
+08:51:32 [ServerInfo] Shop loaded successfully
+08:51:32 [ServerInfo] Skill loaded successfully
+08:51:32 [ServerInfo] Util loaded successfully
+08:51:32 [ReadBotInfo] BotSystem loaded successfully
+09:36:01 [OnlineLoterry] Não teve vencedor
+10:36:01 [OnlineLoterry] Não teve vencedor
+11:36:01 [OnlineLoterry] Não teve vencedor
+11:47:05 [ObjectManager][9000] AddClient (168.227.226.151)
+11:47:10 [ObjectManager][9000] AddAccountInfo (bordignon)
+11:47:13 [ObjectManager][9000] AddCharacterInfo (Bordignon3)
+11:53:54 [ObjectManager][9000] DelCharacterInfo (Bordignon3)
+11:53:54 [ObjectManager][9000] DelAccountInfo (bordignon)
+11:53:54 [ObjectManager][9000] DelClient (168.227.226.151)
+12:36:01 [OnlineLoterry] Não teve vencedor
+13:36:01 [OnlineLoterry] Não teve vencedor
+13:59:49 [ServerInfo] Item loaded successfully
+14:36:01 [OnlineLoterry] Não teve vencedor
+15:36:01 [OnlineLoterry] Não teve vencedor
+16:36:01 [OnlineLoterry] Não teve vencedor
+17:06:01 [ObjectManager][9000] AddClient (177.74.186.34)
+17:06:06 [ObjectManager][9000] AddAccountInfo (fajusto)
+17:06:24 [ObjectManager][9000] AddCharacterInfo (Justo)
+17:21:52 [ObjectManager][9000] DelCharacterInfo (Justo)
+17:21:52 [ObjectManager][9000] DelAccountInfo (fajusto)
+17:21:52 [ObjectManager][9000] DelClient (177.74.186.34)
+17:22:08 [ObjectManager][9000] AddClient (177.74.186.34)
+17:22:12 [ObjectManager][9000] AddAccountInfo (fajusto)
+17:22:15 [ObjectManager][9000] AddCharacterInfo (Justo)
+17:23:10 [ObjectManager][9000] DelCharacterInfo (Justo)
+17:23:10 [ObjectManager][9000] DelAccountInfo (fajusto)
+17:23:10 [ObjectManager][9000] DelClient (177.74.186.34)
+17:24:28 [ObjectManager][9000] AddClient (177.74.186.34)
+17:24:32 [ObjectManager][9000] AddAccountInfo (fajusto)
+17:24:35 [ObjectManager][9000] AddCharacterInfo (Justo)
+17:27:03 [BotBuffer] CharName: Justo - ADD_GREATER_DAMAGE SecondSkillTime: 5
+17:27:12 [BotBuffer] CharName: Justo -ADD_MAGIC_CIRCLE SecondSkillTime: 5
+17:27:18 [BotBuffer] CharName: Justo - ADD_GREATER_LIFE SecondSkillTime: 5
+17:27:23 [BotBuffer] CharName: Justo - ADD_DAMAGE_REFLECT SecondSkillTime: 5
+17:27:28 [BotBuffer] CharName: Justo - ADD_CRITICAL_DAMAGE SecondSkillTime: 5
+17:27:33 [BotBuffer] CharName: Justo - ADD_FITNESS SecondSkillTime: 5
+17:30:56 [BotBuffer] CharName: Justo - ADD_FITNESS SecondSkillTime: 5
+17:31:00 [BotBuffer] CharName: Justo - ADD_CRITICAL_DAMAGE SecondSkillTime: 5
+17:31:03 [BotBuffer] CharName: Justo - ADD_DAMAGE_REFLECT SecondSkillTime: 5
+17:31:07 [BotBuffer] CharName: Justo - ADD_GREATER_LIFE SecondSkillTime: 5
+17:31:13 [BotBuffer] CharName: Justo -ADD_MAGIC_CIRCLE SecondSkillTime: 5
+17:31:17 [BotBuffer] CharName: Justo - ADD_GREATER_DAMAGE SecondSkillTime: 5
+17:36:01 [OnlineLoterry] Não teve vencedor
+18:36:01 [OnlineLoterry] Não teve vencedor
+18:53:13 [ObjectManager][9000] DelCharacterInfo (Justo)
+18:53:13 [ObjectManager][9000] DelAccountInfo (fajusto)
+18:53:13 [ObjectManager][9000] DelClient (177.74.186.34)
+18:54:38 [ObjectManager][9000] AddClient (177.74.186.34)
+18:54:41 [ObjectManager][9000] AddAccountInfo (fajusto)
+18:54:45 [ObjectManager][9000] AddCharacterInfo (Justo)
+19:04:38 [ObjectManager][9000] DelCharacterInfo (Justo)
+19:04:38 [ObjectManager][9000] DelAccountInfo (fajusto)
+19:04:38 [ObjectManager][9000] DelClient (177.74.186.34)
+19:05:01 [ObjectManager][9000] AddClient (177.74.186.34)
+19:05:05 [ObjectManager][9000] AddAccountInfo (fajusto)
+19:05:07 [ObjectManager][9000] AddCharacterInfo (Justo)
+19:36:01 [OnlineLoterry] Não teve vencedor
+20:28:32 [ObjectManager][9000] DelCharacterInfo (Justo)
+20:28:32 [ObjectManager][9000] DelAccountInfo (fajusto)
+20:28:32 [ObjectManager][9000] DelClient (177.74.186.34)
+20:28:48 [ObjectManager][9000] AddClient (177.74.186.78)
+20:28:58 [ObjectManager][9000] AddAccountInfo (fajusto)
+20:29:01 [ObjectManager][9000] AddCharacterInfo (Justo)
+20:30:00 [ CRYWOLF ] SYNC Occupation: 1, State: 1
+20:32:04 [ObjectManager][9000] DelCharacterInfo (Justo)
+20:32:04 [ObjectManager][9000] DelAccountInfo (fajusto)
+20:32:04 [ObjectManager][9000] DelClient (177.74.186.78)
+20:34:08 [ObjectManager][9000] AddClient (177.74.186.78)
+20:34:12 [ObjectManager][9000] AddAccountInfo (fajusto)
+20:34:15 [ObjectManager][9000] AddCharacterInfo (Justo)
+20:35:00 [ CRYWOLF ] SYNC Occupation: 2, State: 2
+20:36:00 [ CRYWOLF ] SYNC Occupation: 2, State: 3
+20:36:01 [OnlineLoterry] Não teve vencedor
+20:38:00 [ CRYWOLF ] SYNC Occupation: 1, State: 5
+20:38:15 [ CRYWOLF ] SYNC Occupation: 1, State: 6
+20:38:25 [ CRYWOLF ] SYNC Occupation: 1, State: 0
+20:46:57 [ObjectManager][9000] DelCharacterInfo (Justo)
+20:46:57 [ObjectManager][9000] DelAccountInfo (fajusto)
+20:46:57 [ObjectManager][9000] DelClient (177.74.186.78)
+20:48:08 [ServerInfo] CashShop loaded successfully
+20:48:08 [ServerInfo] ChaosMix loaded successfully
+20:48:08 [ServerInfo] Character loaded successfully
+20:48:08 [ServerInfo] CustomNpcCollector Info loaded successfully
+20:48:08 [ServerInfo] CustomRankUser Info loaded successfully
+20:48:08 [ServerInfo] CustomWingMix Info loaded successfully
+20:48:08 [ServerInfo] CustomRanking Info loaded successfully
+20:48:08 [ServerInfo] Custom loaded successfully
+20:48:08 [ServerInfo] Command loaded successfully
+20:48:08 [ServerInfo] Common loaded successfully
+20:48:08 [ServerInfo] Event loaded successfully
+20:48:08 [ServerInfo] EventItemBag loaded successfully
+20:48:08 [ServerInfo] Hack loaded successfully
+20:48:08 [ServerInfo] Item loaded successfully
+20:48:09 [ServerInfo] Monster loaded successfully
+20:48:09 [ServerInfo] Move loaded successfully
+20:48:09 [ServerInfo] Quest loaded successfully
+20:48:09 [ServerInfo] Shop loaded successfully
+20:48:09 [ServerInfo] Skill loaded successfully
+20:48:09 [ServerInfo] Util loaded successfully
+20:48:09 [ReadBotInfo] BotSystem loaded successfully
+20:48:18 [ObjectManager][9000] AddClient (177.74.186.78)
+20:48:28 [ObjectManager][9000] AddAccountInfo (fajusto)
+20:48:29 [ObjectManager][9000] AddCharacterInfo (Justo)
+20:49:06 [ObjectManager][9000] DelCharacterInfo (Justo)
+20:49:06 [ObjectManager][9000] DelAccountInfo (fajusto)
+20:49:06 [ObjectManager][9000] DelClient (177.74.186.78)
+20:52:29 [ObjectManager][9000] AddClient (177.74.186.78)
+20:52:34 [ObjectManager][9000] AddAccountInfo (fajusto)
+20:52:36 [ObjectManager][9000] AddCharacterInfo (Justo)
+21:28:45 [ObjectManager][9000] DelCharacterInfo (Justo)
+21:28:45 [ObjectManager][9000] DelAccountInfo (fajusto)
+21:28:45 [ObjectManager][9000] DelClient (177.74.186.78)
+21:30:51 [ServerInfo] CashShop loaded successfully
+21:30:51 [ServerInfo] ChaosMix loaded successfully
+21:30:51 [ServerInfo] Character loaded successfully
+21:30:51 [ServerInfo] CustomNpcCollector Info loaded successfully
+21:30:51 [ServerInfo] CustomRankUser Info loaded successfully
+21:30:51 [ServerInfo] CustomWingMix Info loaded successfully
+21:30:51 [ServerInfo] CustomRanking Info loaded successfully
+21:30:51 [ServerInfo] Custom loaded successfully
+21:30:51 [ServerInfo] Command loaded successfully
+21:30:51 [ServerInfo] Common loaded successfully
+21:30:51 [ServerInfo] Event loaded successfully
+21:30:51 [ServerInfo] EventItemBag loaded successfully
+21:30:51 [ServerInfo] Hack loaded successfully
+21:30:51 [ServerInfo] Item loaded successfully
+21:30:51 [ServerInfo] Monster loaded successfully
+21:30:51 [ServerInfo] Move loaded successfully
+21:30:51 [ServerInfo] Quest loaded successfully
+21:30:51 [ServerInfo] Shop loaded successfully
+21:30:51 [ServerInfo] Skill loaded successfully
+21:30:51 [ServerInfo] Util loaded successfully
+21:30:51 [ReadBotInfo] BotSystem loaded successfully
+21:30:57 [ObjectManager][9000] AddClient (177.74.186.78)
+21:31:07 [ObjectManager][9000] AddAccountInfo (fajusto)
+21:31:08 [ObjectManager][9000] AddCharacterInfo (Justo)
+21:31:52 [ObjectManager][9000] DelCharacterInfo (Justo)
+21:31:52 [ObjectManager][9000] DelAccountInfo (fajusto)
+21:31:52 [ObjectManager][9000] DelClient (177.74.186.78)
+21:34:18 [ObjectManager][9000] AddClient (177.74.186.78)
+21:34:23 [ObjectManager][9000] AddAccountInfo (fajusto)
+21:34:26 [ObjectManager][9000] AddCharacterInfo (Justo)
+21:35:10 [ObjectManager][9001] AddClient (177.200.72.252)
+21:35:16 [ObjectManager][9001] AddAccountInfo (dedaolip)
+21:35:23 [ObjectManager][9001] AddCharacterInfo (Thurin)
+21:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Justo)
+21:36:01 [OnlineLoterry] Participante adicionado ao sorteio (Thurin)
+21:36:01 [OnlineLoterry] Vencedor do sorteio (Thurin)
+21:36:40 [ObjectManager][9001] DelCharacterInfo (Thurin)
+21:36:41 [ObjectManager][9001] DelAccountInfo (dedaolip)
+21:36:41 [ObjectManager][9001] DelClient (177.200.72.252)
+21:36:58 [ObjectManager][9001] AddClient (177.200.72.252)
+21:36:58 [ObjectManager][9001] AddAccountInfo (dedaolip)
+21:36:58 [ObjectManager][9001] AddCharacterInfo (Thurin)
+21:37:19 [ObjectManager][9001] DelCharacterInfo (Thurin)
+21:37:20 [ObjectManager][9001] DelAccountInfo (dedaolip)
+21:37:20 [ObjectManager][9001] DelClient (177.200.72.252)
+21:37:41 [ObjectManager][9001] AddClient (177.200.72.252)
+21:37:42 [ObjectManager][9001] AddAccountInfo (dedaolip)
+21:37:42 [ObjectManager][9001] AddCharacterInfo (Thurin)
+21:39:32 [ObjectManager][9001] DelCharacterInfo (Thurin)
+21:39:33 [ObjectManager][9001] DelAccountInfo (dedaolip)
+21:39:33 [ObjectManager][9001] DelClient (177.200.72.252)
+21:40:07 [ObjectManager][9001] AddClient (177.200.72.252)
+21:40:07 [ObjectManager][9001] AddAccountInfo (dedaolip)
+21:40:07 [ObjectManager][9001] AddCharacterInfo (Thurin)
+21:42:57 [ObjectManager][9001] DelCharacterInfo (Thurin)
+21:42:57 [ObjectManager][9001] DelAccountInfo (dedaolip)
+21:42:57 [ObjectManager][9001] DelClient (177.200.72.252)
+21:43:11 [ObjectManager][9000] DelCharacterInfo (Justo)
+21:43:57 [ObjectManager][9000] AddCharacterInfo (Justo)
+21:44:28 [ObjectManager][9000] DelCharacterInfo (Justo)
+21:44:28 [ObjectManager][9000] DelAccountInfo (fajusto)
+21:44:28 [ObjectManager][9000] DelClient (177.74.186.78)
+21:45:46 [ObjectManager][9001] AddClient (177.74.186.78)
+21:45:52 [ObjectManager][9001] AddAccountInfo (fajusto)
+21:45:56 [ObjectManager][9001] AddCharacterInfo (Gaddock)
+21:58:33 [ObjectManager][9001] DelCharacterInfo (Gaddock)
+21:58:33 [ObjectManager][9001] DelAccountInfo (fajusto)
+21:58:33 [ObjectManager][9001] DelClient (177.74.186.78)
+22:01:39 [ObjectManager][9000] AddClient (177.74.186.78)
+22:01:40 [ObjectManager][9000] AddAccountInfo (fajusto)
+22:01:40 [ObjectManager][9000] AddCharacterInfo (Gaddock)
+22:02:24 [ObjectManager][9000] DelCharacterInfo (Gaddock)
+22:02:27 [ObjectManager][9000] AddCharacterInfo (Gaddock)
+22:02:51 [ObjectManager][9000] DelCharacterInfo (Gaddock)
+22:02:52 [ObjectManager][9000] DelAccountInfo (fajusto)
+22:02:52 [ObjectManager][9000] DelClient (177.74.186.78)
+22:04:29 [ObjectManager][9001] AddClient (177.74.186.78)
+22:04:30 [ObjectManager][9001] AddAccountInfo (fajusto)
+22:04:30 [ObjectManager][9001] AddCharacterInfo (Gaddock)
+22:05:00 [KING OF MU] Start
+22:12:50 [ObjectManager][9001] DelCharacterInfo (Gaddock)
+22:12:54 [ObjectManager][9001] AddCharacterInfo (Justo)
+22:15:59 [ObjectManager][9001] DelCharacterInfo (Justo)
+22:15:59 [ObjectManager][9001] DelAccountInfo (fajusto)
+22:15:59 [ObjectManager][9001] DelClient (177.74.186.78)
+22:35:00 [KING OF MU] Finish - No Winner
+22:36:01 [OnlineLoterry] Não teve vencedor
+23:36:01 [OnlineLoterry] Não teve vencedor

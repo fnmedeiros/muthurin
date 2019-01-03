@@ -1,0 +1,35 @@
+31@1@100@VIP SIMPLES@170@10@Assinar VIP Simples 30 dias.  #*Assinando um plano superior ao seu plano atual o vip eh zerado e conta apenas 30 dias do vip novo, se voce assinar um plano igual sera somado 30 dias mais o dias que voce ja tem!@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1000|@6780@2@1@1000|@0@508@669
+31@2@101@VIP SUPER@170@20@Assinar VIP Super 30 dias.  #*Assinando um plano superior ao seu plano atual o vip eh zerado e conta apenas 30 dias do vip novo, se voce assinar um plano igual sera somado 30 dias mais o dias que voce ja tem!@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1010|@6780@2@1@1010|@0@508@669
+31@3@102@VIP PREMIUM@170@30@Assinar VIP Premium 30 dias.  #*Assinando um plano superior ao seu plano atual o vip eh zerado e conta apenas 30 dias do vip novo, se voce assinar um plano igual sera somado 30 dias mais o dias que voce ja tem!@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1020|@6780@2@1@1020|@0@508@669
+32@1@103@Vault Expansion Certificate@170@15@Expande seu bau.@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1030|@7331@2@1@1030|@0@508@669
+32@2@104@Magic Backpack@170@10@Expande 1x seu inventorio.    #Maximo 2x.@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1040|@7330@2@1@1040|@0@508@669
+34@1@105@Seal of Ascension@170@10@Aumenta EXP ganha em 50%.        #Usado para upar mais rapido.        #Duracao 7 dias.@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1050|@6699@2@1@1050|@0@508@669
+34@2@106@Seal of Wealth@170@20@Aumenta EXP ganha em 100%.     #Usado para upar mais rapido.     #Duracao 7 dias.@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1060|@6700@2@1@1060|@0@508@669
+34@3@107@Seal of Healing@170@15@Aumenta EXP ganha em 50%.       #Auto-recupera vida(HP) 5%.       #Usado para upar mais rapido.        #Duracao 7 dias.@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1070|@6718@2@1@1070|@0@508@669
+34@4@108@Party EXP Scroll@170@15@Aumenta EXP ganha em ate 30%.      #Dependendo do numero de pessoas na party.      #Usado para upar mais rapido.       #Duracao 7 dias.@@182@185@0@0@177@1@Cashs@Cashs@181@200@0@1080|@6759@2@1@1080|@0@508@669
+41@1@109@Scroll of Defense@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1090|@7241@3@1@1090|@0@509@669
+41@2@110@Scroll of Wrath@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1100|@7242@3@1@1100|@0@509@669
+41@3@111@Scroll of Wizardry@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1110|@7243@3@1@1110|@0@509@669
+41@4@112@Scroll of Health@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1120|@7244@3@1@1120|@0@509@669
+41@5@113@Scroll of Mana@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1130|@7245@3@1@1130|@0@509@669
+41@6@114@Scroll of Battle@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1140|@7265@3@1@1140|@0@509@669
+41@7@115@Scroll of Strength@170@1000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1150|@7266@3@1@1150|@0@509@669
+41@8@116@Scroll Master of Defense@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1160|@7393@3@1@1160|@0@509@669
+41@9@117@Scroll Master of Wizardry@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1170|@7394@3@1@1170|@0@509@669
+41@10@118@Scroll Master of Health@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1180|@7395@3@1@1180|@0@509@669
+41@11@119@Scroll Master of Mana@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1190|@7396@3@1@1190|@0@509@669
+41@12@120@Scroll Master of Wrath@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1200|@7397@3@1@1200|@0@509@669
+41@13@121@Scroll Master of Recovery@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1210|@7398@3@1@1210|@0@509@669
+41@14@122@Scroll Master of Battle@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1220|@7399@3@1@1220|@0@509@669
+41@15@123@Scroll Master of Strenghener@170@2000@Valido por 7 dias.@@182@185@0@0@177@1@Golds@Golds@181@200@0@1230|@7400@3@1@1230|@0@509@669
+61@1@124@Seal of Ascension@170@10000@Aumenta EXP ganha em 50%.        #Usado para upar mais rapido.        #Duracao 7 dias.@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1240|@6699@5@1@1240|@1@0@669
+61@2@125@Seal of Wealth@170@40000@Aumenta EXP ganha em 100%.      #Usado para upar mais rapido.      #Duracao 7 dias.@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1250|@6700@5@1@1250|@1@0@669
+61@3@126@Seal of Healing@170@25000@Aumenta EXP ganha em 50%.       #Auto-recupera vida(HP) 5%.       #Usado para upar mais rapido.        #Duracao 7 dias.@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1260|@6718@5@1@1260|@1@0@669
+61@4@127@Elite Healing Potion@170@2000@255 unidades.     #Classe: Todas@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1270|@7238@5@1@1270|@1@0@669
+62@1@128@Devil Square Ticket@170@1000@Pode ser usado 10x@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1280|@6702@5@1@1280|@1@0@669
+62@2@129@Blood Castle Ticket@170@1000@Pode ser usado 10x@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1290|@6703@5@1@1290|@1@0@669
+62@3@130@Kalima Ticket@170@1000@Pode ser usado 10x@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1300|@6704@5@1@1300|@1@0@669
+62@4@131@Panda Ring@170@2000@...@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1310|@6732@5@1@1310|@1@0@669
+62@5@132@Brown Panda Ring@170@3000@...@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1320|@6733@5@1@1320|@1@0@669
+62@6@133@Pink Panda Ring@170@3000@...@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1330|@6734@5@1@1330|@1@0@669
+62@7@134@Horn of Fenrir@170@10000@...@@182@185@0@0@177@1@Globin Points@Globin Points@181@200@0@1340|@6693@5@1@1340|@1@0@669
